@@ -1,0 +1,156 @@
+,Date,Tm,Home_Away,Opp,W/L,R,RA,Inn,W-L,Rank,GB,Win,Loss,Save,Time,D/N,Attendance,cLI,Streak,Orig. Scheduled,win-count
+1,"Tuesday, Apr 12",NYY,Home,PHA,W,8.0,3.0,9.0,1-0,1.0,Tied,Hoyt,Grove,None,2:05,D,72000.0,2.55,1,,1
+2,"Wednesday, Apr 13",NYY,Home,PHA,W,10.0,4.0,9.0,2-0,1.0,up 0.5,Ruether,Gray,None,2:15,D,8000.0,2.71,2,,2
+3,"Thursday, Apr 14",NYY,Home,PHA,T,9.0,9.0,10.0,2-0,1.0,Tied,None,None,None,2:50,D,9000.0,2.84,2,,2
+4,"Friday, Apr 15",NYY,Home,PHA,W,6.0,3.0,9.0,3-0,1.0,Tied,Pennock,Ehmke,None,2:27,D,16000.0,2.86,3,,3
+5,"Saturday, Apr 16",NYY,Home,BOS,W,5.0,2.0,9.0,4-0,1.0,up 1.0,Shocker,Ruffing,None,2:05,D,25000.0,3.00,4,,4
+6,"Sunday, Apr 17",NYY,Home,BOS,W,14.0,2.0,9.0,5-0,1.0,up 2.0,Hoyt,Russell,None,2:01,D,35000.0,3.18,5,,5
+7,"Monday, Apr 18",NYY,Home,BOS,W,3.0,0.0,9.0,6-0,1.0,up 2.0,Ruether,Harriss,None,1:29,D,10000.0,3.36,6,,6
+8,"Tuesday, Apr 19",NYY,Home,BOS,L,3.0,6.0,9.0,6-1,1.0,up 1.5,Wiltse,Shawkey,None,1:59,D,8000.0,3.59,-1,,6
+9,"Wednesday, Apr 20",NYY,@,PHA,L,5.0,8.0,9.0,6-2,1.0,up 1.0,Quinn,Shocker,None,2:10,D,35000.0,3.60,-2,,6
+10,"Thursday, Apr 21",NYY,@,PHA,W,13.0,6.0,9.0,7-2,1.0,up 1.5,Moore,Rommel,None,2:30,D,15000.0,3.31,1,,7
+11,"Saturday, Apr 23",NYY,@,PHA,L,3.0,4.0,9.0,7-3,1.0,up 1.0,Walberg,Moore,None,1:57,D,35000.0,3.59,-1,,7
+12,"Sunday, Apr 24",NYY,@,WSH,W,6.0,2.0,9.0,8-3,1.0,up 1.0,Shocker,Thurston,None,2:15,D,20000.0,3.34,1,,8
+13,"Monday, Apr 25",NYY,Home,WSH,L,4.0,5.0,9.0,8-4,1.0,up 1.0,Lisenbee,Hoyt,None,2:39,D,3000.0,3.54,-1,,8
+14,"Friday, Apr 29",NYY,@,BOS,W,9.0,0.0,9.0,9-4,1.0,up 0.5,Ruether,Harriss,None,Unknown,D,,3.12,1,,9
+15,"Saturday, Apr 30",NYY,@,BOS,L,2.0,3.0,9.0,9-5,1.0,Tied,Wiltse,Shocker,None,Unknown,D,15000.0,3.34,-1,,9
+16,"Sunday, May 1",NYY,Home,PHA,W,7.0,3.0,9.0,10-5,1.0,up 1.0,Pennock,Quinn,None,2:02,D,70000.0,3.58,1,,10
+17,"Monday, May 2",NYY,@,WSH,W,9.0,6.0,9.0,11-5,1.0,up 1.0,Hoyt,Coveleski,Moore,2:16,D,7500.0,3.64,2,,11
+18,"Tuesday, May 3",NYY,@,WSH,W,6.0,4.0,9.0,12-5,1.0,up 1.0,Moore,Marberry,None,2:30,D,6000.0,3.72,3,,12
+19,"Wednesday, May 4",NYY,@,WSH,L,4.0,7.0,9.0,12-6,1.0,up 0.5,Thurston,Ruether,Braxton,Unknown,D,3000.0,3.97,-1,,12
+20,"Thursday, May 5",NYY,@,WSH,L,1.0,6.0,9.0,12-7,1.0,up 0.5,Lisenbee,Shocker,None,2:05,D,8000.0,3.95,-2,,12
+21,"Saturday, May 7",NYY,@,CHW,W,8.0,0.0,9.0,13-7,1.0,up 1.5,Pennock,Lyons,None,Unknown,D,37000.0,3.99,1,,13
+22,"Sunday, May 8",NYY,@,CHW,W,9.0,0.0,9.0,14-7,1.0,up 2.5,Hoyt,Blankenship,None,2:06,D,52000.0,4.25,2,,14
+23,"Monday, May 9",NYY,@,CHW,L,1.0,2.0,10.0,14-8,1.0,up 2.0,Faber,Moore,None,Unknown,D,12000.0,4.52,-1,,14
+24,"Tuesday, May 10",NYY,@,SLB,W,8.0,7.0,9.0,15-8,1.0,up 2.0,Moore,Gaston,Pennock,Unknown,D,7500.0,4.21,1,,15
+25,"Wednesday, May 11",NYY,@,SLB,W,4.0,2.0,9.0,16-8,1.0,up 2.0,Shocker,Nevers,None,1:49,D,1500.0,4.41,2,,16
+26,"Thursday, May 12",NYY,@,SLB,W,4.0,3.0,9.0,17-8,1.0,up 2.0,Pennock,Jones,None,Unknown,D,5000.0,4.63,3,,17
+27,"Friday, May 13",NYY,@,SLB,W,3.0,1.0,9.0,18-8,1.0,up 2.5,Hoyt,Wingard,None,Unknown,D,2500.0,4.75,4,,18
+28,"Monday, May 16",NYY,@,DET,W,6.0,2.0,9.0,19-8,1.0,up 3.0,Ruether,Holloway,Moore,2:28,D,4000.0,5.15,5,,19
+29,"Tuesday, May 17",NYY,@,DET,W,9.0,2.0,9.0,20-8,1.0,up 4.0,Pennock,Collins,None,2:46,D,15000.0,5.25,6,,20
+30,"Thursday, May 19",NYY,@,CLE,W,4.0,3.0,9.0,21-8,1.0,up 4.0,Moore,Buckeye,None,1:45,D,4000.0,5.15,7,,21
+31,"Friday, May 20",NYY,@,CLE,L,1.0,2.0,9.0,21-9,1.0,up 4.0,Uhle,Hoyt,None,1:47,D,8000.0,5.27,-1,1927-05-18 (Rain),21
+32,"Saturday, May 21",NYY,@,CLE,L,4.0,5.0,12.0,21-10,1.0,up 3.0,Hudlin,Moore,None,3:02,D,15000.0,5.13,-2,,21
+33,"Sunday, May 22",NYY,@,CLE,W,7.0,2.0,9.0,22-10,1.0,up 4.0,Shocker,Shaute,None,2:13,D,23000.0,5.18,1,,22
+34,"Monday, May 23",NYY,@,WSH,L,2.0,3.0,9.0,22-11,1.0,up 3.0,Thurston,Thomas,Marberry,Unknown,D,9000.0,5.38,-1,,22
+35,"Friday, May 27 (1)",NYY,Home,WSH,L,2.0,7.0,9.0,22-12,1.0,up 1.0,Lisenbee,Pennock,None,2:24,D,25000.0,5.39,-2,1927-04-26 (Cold),22
+36,"Friday, May 27 (2)",NYY,Home,WSH,W,5.0,0.0,9.0,23-12,1.0,up 1.0,Hoyt,Hadley,None,Unknown,D,25000.0,5.33,1,,23
+37,"Saturday, May 28 (1)",NYY,Home,WSH,W,8.0,2.0,9.0,24-12,1.0,up 1.5,Shocker,Thurston,None,Unknown,D,35000.0,5.26,2,1927-04-27 (Rain),24
+38,"Saturday, May 28 (2)",NYY,Home,WSH,L,2.0,3.0,9.0,24-13,1.0,up 1.5,Marberry,Moore,None,Unknown,D,45000.0,5.20,-1,,24
+39,"Sunday, May 29",NYY,Home,BOS,W,15.0,7.0,9.0,25-13,1.0,up 1.5,Thomas,Wingfield,None,Unknown,D,35000.0,4.78,1,,25
+40,"Monday, May 30 (1)",NYY,@,PHA,L,8.0,9.0,9.0,25-14,1.0,up 1.5,Grove,Shawkey,None,2:48,D,40000.0,5.91,-1,,25
+41,"Monday, May 30 (2)",NYY,@,PHA,W,6.0,5.0,11.0,26-14,1.0,up 1.5,Moore,Walberg,None,3:15,D,40000.0,5.89,1,,26
+42,"Tuesday, May 31 (1)",NYY,@,PHA,W,10.0,3.0,9.0,27-14,1.0,up 2.0,Hoyt,Quinn,None,2:02,D,15000.0,5.94,2,1927-04-22 (Rain),27
+43,"Tuesday, May 31 (2)",NYY,@,PHA,W,18.0,5.0,9.0,28-14,1.0,up 2.0,Shocker,Ehmke,None,2:12,D,15000.0,5.81,3,,28
+44,"Wednesday, Jun 1",NYY,@,PHA,W,2.0,1.0,9.0,29-14,1.0,up 2.5,Thomas,Walberg,None,Unknown,D,10000.0,6.09,4,,29
+45,"Thursday, Jun 2",NYY,Home,DET,W,2.0,0.0,9.0,30-14,1.0,up 2.5,Ruether,Stoner,None,1:31,D,15000.0,5.13,5,,30
+46,"Friday, Jun 3",NYY,Home,DET,L,1.0,3.0,9.0,30-15,1.0,up 1.5,Holloway,Pennock,None,Unknown,D,10000.0,5.04,-1,,30
+47,"Sunday, Jun 5",NYY,Home,DET,W,5.0,3.0,9.0,31-15,1.0,up 1.5,Thomas,Whitehill,None,2:20,D,35000.0,5.03,1,,31
+48,"Tuesday, Jun 7",NYY,Home,CHW,W,4.0,1.0,9.0,32-15,1.0,up 2.0,Hoyt,Thomas,None,Unknown,D,15000.0,7.43,2,,32
+49,"Wednesday, Jun 8",NYY,Home,CHW,W,12.0,11.0,11.0,33-15,1.0,up 3.0,Thomas,Connally,None,3:15,D,25000.0,7.26,3,,33
+50,"Thursday, Jun 9",NYY,Home,CHW,W,8.0,3.0,9.0,34-15,1.0,up 4.0,Pennock,Blankenship,None,Unknown,D,15000.0,7.63,4,,34
+51,"Friday, Jun 10",NYY,Home,CHW,L,2.0,4.0,9.0,34-16,1.0,up 3.0,Lyons,Shocker,None,Unknown,D,12500.0,7.26,-1,,34
+52,"Saturday, Jun 11",NYY,Home,CLE,W,6.0,4.0,9.0,35-16,1.0,up 4.0,Thomas,Buckeye,Moore,2:15,D,27500.0,5.21,1,,35
+53,"Sunday, Jun 12",NYY,Home,CLE,L,7.0,8.0,9.0,35-17,1.0,up 4.0,Hudlin,Hoyt,Uhle,2:07,D,45000.0,5.17,-1,,35
+54,"Monday, Jun 13",NYY,Home,CLE,W,14.0,6.0,9.0,36-17,1.0,up 5.0,Pennock,Shaute,None,2:10,D,12000.0,5.26,1,,36
+55,"Thursday, Jun 16",NYY,Home,SLB,W,8.0,1.0,9.0,37-17,1.0,up 4.5,Hoyt,Zachary,None,1:42,D,20000.0,5.34,2,,37
+56,"Friday, Jun 17",NYY,Home,SLB,W,3.0,2.0,9.0,38-17,1.0,up 5.5,Shocker,Nevers,None,1:52,D,8000.0,5.09,3,,38
+57,"Saturday, Jun 18",NYY,Home,SLB,W,8.0,4.0,9.0,39-17,1.0,up 6.5,Thomas,Vangilder,Moore,2:20,D,22000.0,5.07,4,,39
+58,"Tuesday, Jun 21 (1)",NYY,@,BOS,W,7.0,3.0,9.0,40-17,1.0,up 8.0,Pennock,Wingfield,None,1:46,D,15000.0,4.56,5,1927-04-28 (Cold),40
+59,"Tuesday, Jun 21 (2)",NYY,@,BOS,W,7.0,1.0,9.0,41-17,1.0,up 8.0,Hoyt,Welzer,None,1:44,D,15000.0,4.32,6,,41
+60,"Wednesday, Jun 22 (1)",NYY,@,BOS,W,7.0,4.0,9.0,42-17,1.0,up 9.0,Moore,Wiltse,None,Unknown,D,10000.0,4.15,7,1927-06-20 (Rain),42
+61,"Wednesday, Jun 22 (2)",NYY,@,BOS,W,3.0,2.0,9.0,43-17,1.0,up 9.0,Shocker,Ruffing,Moore,Unknown,D,20000.0,3.94,8,,43
+62,"Thursday, Jun 23",NYY,@,BOS,W,11.0,4.0,9.0,44-17,1.0,up10.0,Ruether,Lundgren,None,Unknown,D,2000.0,3.53,9,,44
+63,"Saturday, Jun 25 (1)",NYY,Home,PHA,L,6.0,7.0,9.0,44-18,1.0,up 8.0,Grove,Pennock,Pate,Unknown,D,40000.0,4.48,-1,1927-05-24 (Rain),44
+64,"Saturday, Jun 25 (2)",NYY,Home,PHA,L,2.0,4.0,9.0,44-19,1.0,up 8.0,Walberg,Hoyt,Pate,Unknown,D,60000.0,4.97,-2,,44
+65,"Sunday, Jun 26 (1)",NYY,Home,PHA,L,2.0,4.0,9.0,44-20,1.0,up 8.0,Quinn,Thomas,None,1:50,D,,5.89,-3,1927-05-25 (Rain),44
+66,"Sunday, Jun 26 (2)",NYY,Home,PHA,W,7.0,3.0,9.0,45-20,1.0,up 8.0,Moore,Gray,None,1:45,D,61000.0,6.54,1,,45
+67,"Monday, Jun 27",NYY,Home,PHA,W,6.0,2.0,9.0,46-20,1.0,up 9.0,Ruether,Ehmke,Pennock,1:47,D,12000.0,5.82,2,,46
+68,"Tuesday, Jun 28",NYY,Home,PHA,W,9.0,8.0,9.0,47-20,1.0,up10.0,Shocker,Walberg,Thomas,Unknown,D,15000.0,5.25,3,,47
+69,"Wednesday, Jun 29",NYY,Home,BOS,W,8.0,2.0,9.0,48-20,1.0,up10.5,Pipgras,Wiltse,None,Unknown,D,18000.0,3.52,4,,48
+70,"Thursday, Jun 30",NYY,Home,BOS,W,13.0,6.0,9.0,49-20,1.0,up10.5,Moore,Harriss,None,Unknown,D,3000.0,3.40,5,,49
+71,"Friday, Jul 1",NYY,Home,BOS,W,7.0,4.0,9.0,50-20,1.0,up10.5,Pennock,MacFayden,Shawkey,Unknown,D,10000.0,3.27,6,,50
+72,"Saturday, Jul 2",NYY,Home,BOS,W,3.0,2.0,9.0,51-20,1.0,up10.5,Ruether,Russell,None,Unknown,D,18000.0,2.90,7,,51
+73,"Sunday, Jul 3",NYY,@,WSH,L,5.0,6.0,9.0,51-21,1.0,up 9.5,Lisenbee,Thomas,Marberry,2:23,D,30000.0,3.71,-1,,51
+74,"Monday, Jul 4 (1)",NYY,Home,WSH,W,12.0,1.0,9.0,52-21,1.0,up11.5,Pipgras,Thurston,None,2:07,D,,4.39,1,,52
+75,"Monday, Jul 4 (2)",NYY,Home,WSH,W,21.0,1.0,9.0,53-21,1.0,up11.5,Moore,Crowder,None,2:20,D,72641.0,3.70,2,,53
+76,"Tuesday, Jul 5",NYY,Home,WSH,W,7.0,6.0,9.0,54-21,1.0,up12.5,Shawkey,Lisenbee,None,Unknown,D,12000.0,3.07,3,,54
+77,"Friday, Jul 8 (1)",NYY,@,DET,L,8.0,11.0,9.0,54-22,1.0,up11.5,Stoner,Ruether,None,2:36,D,15000.0,2.62,-1,1927-05-14 (Rain),54
+78,"Friday, Jul 8 (2)",NYY,@,DET,W,10.0,8.0,9.0,55-22,1.0,up11.5,Moore,Whitehill,Pennock,2:54,D,26500.0,3.08,1,,55
+79,"Saturday, Jul 9 (1)",NYY,@,DET,W,19.0,7.0,9.0,56-22,1.0,up10.5,Pipgras,Holloway,Moore,3:00,D,33000.0,2.60,2,1927-05-15 (Rain),56
+80,"Saturday, Jul 9 (2)",NYY,@,DET,L,4.0,14.0,7.0,56-23,1.0,up10.5,Gibson,Shocker,None,2:13,D,33000.0,2.11,-1,,56
+81,"Sunday, Jul 10",NYY,@,DET,L,3.0,6.0,9.0,56-24,1.0,up 9.5,Whitehill,Pennock,None,2:08,D,30000.0,2.61,-2,,56
+82,"Monday, Jul 11",NYY,@,DET,W,8.0,5.0,9.0,57-24,1.0,up 9.5,Hoyt,Stoner,Shawkey,2:27,D,10000.0,3.17,1,,57
+83,"Tuesday, Jul 12",NYY,@,CLE,W,7.0,0.0,9.0,58-24,1.0,up 9.5,Shocker,Shaute,None,2:00,D,10000.0,2.63,2,,58
+84,"Wednesday, Jul 13",NYY,@,CLE,W,5.0,3.0,9.0,59-24,1.0,up11.0,Ruether,Hudlin,None,1:51,D,5000.0,2.30,3,,59
+85,"Thursday, Jul 14",NYY,@,CLE,L,1.0,4.0,9.0,59-25,1.0,up10.5,Miller,Moore,None,Unknown,D,3000.0,1.78,-1,,59
+86,"Friday, Jul 15",NYY,@,CLE,W,10.0,9.0,9.0,60-25,1.0,up11.0,Thomas,Buckeye,Shawkey,2:07,D,6000.0,2.08,1,,60
+87,"Saturday, Jul 16",NYY,@,SLB,W,5.0,2.0,9.0,61-25,1.0,up12.0,Pennock,Jones,None,Unknown,D,9000.0,1.80,2,,61
+88,"Sunday, Jul 17",NYY,@,SLB,W,5.0,4.0,9.0,62-25,1.0,up12.0,Moore,Gaston,None,2:05,D,18000.0,1.40,3,,62
+89,"Monday, Jul 18",NYY,@,SLB,W,10.0,6.0,9.0,63-25,1.0,up12.0,Pipgras,Wingard,None,2:18,D,22427.0,1.25,4,,63
+90,"Tuesday, Jul 19",NYY,@,SLB,W,6.0,1.0,9.0,64-25,1.0,up12.0,Ruether,Stewart,Moore,Unknown,D,3500.0,1.01,5,,64
+91,"Thursday, Jul 21",NYY,@,CHW,W,4.0,1.0,9.0,65-25,1.0,up12.5,Hoyt,Connally,None,Unknown,D,19000.0,1.06,6,,65
+92,"Friday, Jul 22",NYY,@,CHW,L,5.0,7.0,9.0,65-26,1.0,up13.0,Lyons,Pennock,None,2:02,D,30000.0,.86,-1,,65
+93,"Saturday, Jul 23",NYY,@,CHW,W,5.0,2.0,9.0,66-26,1.0,up13.0,Shocker,Blankenship,Moore,Unknown,D,35000.0,.81,1,,66
+94,"Sunday, Jul 24",NYY,@,CHW,W,3.0,2.0,9.0,67-26,1.0,up13.0,Pipgras,Thomas,Moore,2:04,D,45000.0,.74,2,,67
+95,"Tuesday, Jul 26 (1)",NYY,Home,SLB,W,15.0,1.0,9.0,68-26,1.0,up13.0,Ruether,Gaston,None,1:50,D,,.56,3,1927-06-19 (Wet grounds),68
+96,"Tuesday, Jul 26 (2)",NYY,Home,SLB,W,12.0,3.0,9.0,69-26,1.0,up13.0,Hoyt,Jones,None,1:50,D,25000.0,.49,4,,69
+97,"Wednesday, Jul 27",NYY,Home,SLB,W,4.0,1.0,9.0,70-26,1.0,up14.0,Pennock,Ballou,None,Unknown,D,7000.0,.56,5,,70
+98,"Thursday, Jul 28",NYY,Home,SLB,W,9.0,4.0,9.0,71-26,1.0,up14.0,Shocker,Vangilder,None,Unknown,D,8000.0,.36,6,,71
+99,"Friday, Jul 29",NYY,Home,CLE,L,4.0,6.0,9.0,71-27,1.0,up13.0,Hudlin,Pipgras,None,2:24,D,7000.0,.38,-1,,71
+100,"Saturday, Jul 30 (1)",NYY,Home,CLE,W,7.0,3.0,9.0,72-27,1.0,up13.5,Ruether,Brown,None,2:11,D,33000.0,.42,1,1927-06-14 (Rain),72
+101,"Saturday, Jul 30 (2)",NYY,Home,CLE,W,5.0,0.0,9.0,73-27,1.0,up13.5,Hoyt,Shaute,None,1:50,D,33000.0,.41,2,,73
+102,"Monday, Aug 1",NYY,Home,CLE,L,1.0,2.0,6.0,73-28,1.0,up12.5,Miller,Pennock,None,1:24,D,15000.0,.46,-1,,73
+103,"Wednesday, Aug 3 (1)",NYY,Home,DET,L,5.0,6.0,9.0,73-29,1.0,up13.0,Stoner,Shocker,None,2:02,D,40000.0,.36,-2,1927-06-04 (Rain),73
+104,"Wednesday, Aug 3 (2)",NYY,Home,DET,W,8.0,6.0,9.0,74-29,1.0,up13.0,Pipgras,Gibson,Moore,2:17,D,40000.0,.64,1,,74
+105,"Thursday, Aug 4",NYY,Home,DET,L,2.0,6.0,9.0,74-30,1.0,up11.5,Carroll,Ruether,None,Unknown,D,20000.0,.48,-1,,74
+106,"Friday, Aug 5",NYY,Home,DET,W,5.0,2.0,9.0,75-30,1.0,up11.5,Hoyt,Holloway,None,Unknown,D,8000.0,.74,1,,75
+107,"Saturday, Aug 6",NYY,Home,CHW,L,3.0,6.0,9.0,75-31,1.0,up11.5,Lyons,Pennock,None,Unknown,D,30000.0,.70,-1,,75
+108,"Sunday, Aug 7",NYY,Home,CHW,W,4.0,3.0,9.0,76-31,1.0,up11.5,Shocker,Blankenship,Moore,2:26,D,35000.0,.68,1,,76
+109,"Tuesday, Aug 9",NYY,@,PHA,L,1.0,8.0,9.0,76-32,1.0,up11.0,Walberg,Ruether,None,1:40,D,20000.0,.46,-1,,76
+110,"Wednesday, Aug 10",NYY,@,WSH,W,4.0,3.0,9.0,77-32,1.0,up12.0,Hoyt,Zachary,Moore,2:16,D,12000.0,1.26,1,,77
+111,"Thursday, Aug 11",NYY,@,WSH,L,2.0,3.0,11.0,77-33,1.0,up11.0,Lisenbee,Pipgras,None,2:25,D,10000.0,.73,-1,,77
+112,"Saturday, Aug 13",NYY,@,WSH,W,6.0,3.0,9.0,78-33,1.0,up12.0,Moore,Hadley,None,2:30,D,20000.0,.96,1,,78
+113,"Sunday, Aug 14",NYY,@,WSH,W,6.0,2.0,9.0,79-33,1.0,up13.0,Hoyt,Zachary,None,1:59,D,23000.0,.54,2,,79
+114,"Tuesday, Aug 16",NYY,@,CHW,W,8.0,1.0,9.0,80-33,1.0,up13.5,Pennock,Thomas,None,2:04,D,20000.0,.17,3,,80
+115,"Wednesday, Aug 17",NYY,@,CHW,W,3.0,2.0,11.0,81-33,1.0,up14.0,Moore,Connally,None,2:19,D,8000.0,.12,4,,81
+116,"Thursday, Aug 18",NYY,@,CHW,W,5.0,4.0,12.0,82-33,1.0,up15.0,Moore,Lyons,None,2:53,D,7000.0,.08,5,,82
+117,"Friday, Aug 19",NYY,@,CHW,L,2.0,3.0,9.0,82-34,1.0,up15.0,Blankenship,Hoyt,None,1:41,D,20000.0,.04,-1,,82
+118,"Saturday, Aug 20",NYY,@,CLE,L,8.0,14.0,9.0,82-35,1.0,up15.0,Grant,Shawkey,None,2:05,D,8000.0,.04,-2,,82
+119,"Sunday, Aug 21",NYY,@,CLE,L,4.0,7.0,9.0,82-36,1.0,up14.0,Hudlin,Pipgras,None,Unknown,D,19000.0,.04,-3,,82
+120,"Monday, Aug 22",NYY,@,CLE,L,4.0,9.0,9.0,82-37,1.0,up12.5,Shaute,Moore,None,2:10,D,8000.0,.05,-4,,82
+121,"Wednesday, Aug 24",NYY,@,DET,W,9.0,5.0,9.0,83-37,1.0,up13.5,Moore,Carroll,None,2:28,D,22000.0,.16,1,,83
+122,"Thursday, Aug 25",NYY,@,DET,W,8.0,2.0,9.0,84-37,1.0,up14.5,Pennock,Whitehill,None,2:33,D,22000.0,.06,2,,84
+123,"Friday, Aug 26",NYY,@,DET,W,8.0,6.0,9.0,85-37,1.0,up15.5,Moore,Gibson,None,2:40,D,20000.0,.03,3,,85
+124,"Saturday, Aug 27",NYY,@,SLB,W,14.0,4.0,9.0,86-37,1.0,up16.0,Hoyt,Jones,None,Unknown,D,7500.0,.00,4,,86
+125,"Sunday, Aug 28",NYY,@,SLB,W,10.0,6.0,9.0,87-37,1.0,up16.0,Shocker,Wingard,None,2:14,D,14000.0,.00,5,,87
+126,"Monday, Aug 29",NYY,@,SLB,W,8.0,3.0,9.0,88-37,1.0,up16.0,Pennock,Crowder,None,2:09,D,10000.0,.00,6,,88
+127,"Wednesday, Aug 31",NYY,Home,BOS,W,10.0,3.0,9.0,89-37,1.0,up17.0,Pipgras,Ruffing,None,2:03,D,4000.0,.00,7,,89
+128,"Friday, Sep 2",NYY,@,PHA,W,12.0,2.0,9.0,90-37,1.0,up18.0,Hoyt,Walberg,None,1:50,D,20000.0,.00,8,,90
+129,"Saturday, Sep 3",NYY,@,PHA,L,0.0,1.0,9.0,90-38,1.0,up17.0,Grove,Moore,None,1:29,D,25000.0,.00,-1,,90
+130,"Monday, Sep 5 (1)",NYY,@,BOS,L,11.0,12.0,18.0,90-39,1.0,up16.0,Wiltse,Hoyt,None,4:20,D,36000.0,.00,-2,,90
+131,"Monday, Sep 5 (2)",NYY,@,BOS,W,5.0,0.0,5.0,91-39,1.0,up16.0,Shocker,Wiltse,None,0:55,D,36000.0,.00,1,,91
+132,"Tuesday, Sep 6 (1)",NYY,@,BOS,W,14.0,2.0,9.0,92-39,1.0,up16.0,Pennock,Welzer,None,1:58,D,15000.0,.00,2,1927-09-01 (Rain; Site change),92
+133,"Tuesday, Sep 6 (2)",NYY,@,BOS,L,2.0,5.0,9.0,92-40,1.0,up16.0,Russell,Ruether,None,1:26,D,20000.0,.00,-1,,92
+134,"Wednesday, Sep 7",NYY,@,BOS,W,12.0,10.0,9.0,93-40,1.0,up16.5,Shawkey,Harriss,None,2:31,D,13000.0,.00,1,,93
+135,"Thursday, Sep 8",NYY,Home,SLB,W,2.0,1.0,9.0,94-40,1.0,up16.5,Hoyt,Jones,None,1:55,D,20000.0,.00,2,,94
+136,"Friday, Sep 9",NYY,Home,SLB,W,9.0,3.0,9.0,95-40,1.0,up17.5,Shocker,Vangilder,None,2:02,D,10000.0,.00,3,,95
+137,"Saturday, Sep 10",NYY,Home,SLB,W,1.0,0.0,9.0,96-40,1.0,up17.5,Moore,Stewart,None,1:55,D,20000.0,.00,4,,96
+138,"Sunday, Sep 11",NYY,Home,SLB,L,2.0,6.0,9.0,96-41,1.0,up17.0,Gaston,Pennock,None,2:15,D,35000.0,.00,-1,,96
+139,"Tuesday, Sep 13 (1)",NYY,Home,CLE,W,5.0,3.0,9.0,97-41,1.0,up17.0,Pipgras,Hudlin,None,1:52,D,,.00,1,1927-07-31 (Rain),97
+140,"Tuesday, Sep 13 (2)",NYY,Home,CLE,W,5.0,3.0,9.0,98-41,1.0,up17.0,Hoyt,Shaute,None,1:35,D,25000.0,.00,2,,98
+141,"Wednesday, Sep 14",NYY,Home,CLE,W,4.0,1.0,9.0,99-41,1.0,up17.0,Ruether,Miller,None,1:32,D,,.00,3,,99
+142,"Thursday, Sep 15",NYY,Home,CLE,L,2.0,3.0,9.0,99-42,1.0,up16.0,Uhle,Thomas,None,1:55,D,6000.0,.00,-1,,99
+143,"Friday, Sep 16",NYY,Home,CHW,W,7.0,2.0,9.0,100-42,1.0,up16.0,Moore,Blankenship,None,1:53,D,7000.0,.00,1,,100
+144,"Saturday, Sep 17 (1)",NYY,Home,CHW,W,3.0,2.0,9.0,101-42,1.0,up17.0,Shocker,Faber,None,2:00,D,35000.0,.00,2,1927-08-08 (Wet grounds),101
+145,"Saturday, Sep 17 (2)",NYY,Home,CHW,W,8.0,1.0,9.0,102-42,1.0,up17.0,Pennock,Connally,None,2:06,D,35000.0,.00,3,,102
+146,"Sunday, Sep 18 (1)",NYY,Home,CHW,W,2.0,1.0,9.0,103-42,1.0,up18.0,Pipgras,Thomas,None,1:25,D,,.00,4,,103
+147,"Sunday, Sep 18 (2)",NYY,Home,CHW,W,5.0,1.0,9.0,104-42,1.0,up18.0,Hoyt,Lyons,None,1:40,D,51000.0,.00,5,1927-09-19 (Schedule change),104
+148,"Wednesday, Sep 21",NYY,Home,DET,L,1.0,6.0,9.0,104-43,1.0,up17.0,Gibson,Ruether,None,1:45,D,6000.0,.00,-1,,104
+149,"Thursday, Sep 22",NYY,Home,DET,W,8.0,7.0,9.0,105-43,1.0,up16.5,Pennock,Holloway,None,2:05,D,5000.0,.00,1,,105
+150,"Saturday, Sep 24",NYY,Home,DET,W,6.0,0.0,9.0,106-43,1.0,up17.0,Pipgras,Stoner,None,2:04,D,15000.0,.00,2,,106
+151,"Sunday, Sep 25",NYY,Home,DET,L,1.0,6.0,9.0,106-44,1.0,up16.5,Whitehill,Hoyt,None,2:20,D,25000.0,.00,-1,,106
+152,"Tuesday, Sep 27",NYY,Home,PHA,W,7.0,4.0,9.0,107-44,1.0,up17.5,Pennock,Grove,Moore,2:12,D,15000.0,.00,1,,107
+153,"Thursday, Sep 29",NYY,Home,WSH,W,15.0,4.0,9.0,108-44,1.0,up18.5,Shocker,Lisenbee,Shawkey,1:58,D,7500.0,.00,2,,108
+154,"Friday, Sep 30",NYY,Home,WSH,W,4.0,2.0,9.0,109-44,1.0,up19.0,Pennock,Zachary,None,1:38,D,8000.0,.00,3,,109
+155,"Saturday, Oct 1",NYY,Home,WSH,W,4.0,3.0,9.0,110-44,1.0,up18.5,Moore,Burke,Hoyt,1:35,D,20000.0,.00,4,,110

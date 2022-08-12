@@ -1,0 +1,163 @@
+,Date,Tm,Home_Away,Opp,W/L,R,RA,Inn,W-L,Rank,GB,Win,Loss,Save,Time,D/N,Attendance,cLI,Streak,Orig. Scheduled,win-count
+1,"Monday, Apr 2",SEA,Home,OAK,W,5.0,4.0,9.0,1-0,1.0,up 0.5,Rhodes,Mecir,Sasaki,3:23,N,45911.0,1.20,1,,1
+2,"Tuesday, Apr 3",SEA,Home,OAK,L,1.0,5.0,9.0,1-1,1.0,Tied,Zito,Halama,None,2:57,N,27212.0,1.23,-1,,1
+3,"Wednesday, Apr 4",SEA,Home,OAK,W,10.0,2.0,9.0,2-1,1.0,Tied,Sele,Heredia,None,3:07,D,31382.0,1.21,1,,2
+4,"Friday, Apr 6",SEA,@,TEX,W,9.0,7.0,10.0,3-1,1.0,up 1.0,Rhodes,Zimmerman,Sasaki,3:43,N,34684.0,1.24,2,,3
+5,"Saturday, Apr 7",SEA,@,TEX,W,6.0,5.0,9.0,4-1,1.0,up 2.0,Franklin,Davis,Sasaki,3:27,N,41651.0,1.26,3,,4
+6,"Sunday, Apr 8",SEA,@,TEX,L,4.0,5.0,9.0,4-2,1.0,up 1.0,Venafro,Paniagua,Crabtree,3:18,D,44306.0,1.35,-1,,4
+7,"Tuesday, Apr 10",SEA,@,OAK,W,5.0,1.0,9.0,5-2,1.0,up 1.5,Halama,Heredia,Sasaki,3:22,N,14880.0,1.29,1,,5
+8,"Wednesday, Apr 11",SEA,@,OAK,W,3.0,0.0,9.0,6-2,1.0,up 2.0,Sele,Mecir,Sasaki,2:29,N,16652.0,1.32,2,,6
+9,"Thursday, Apr 12",SEA,@,OAK,W,7.0,3.0,9.0,7-2,1.0,up 2.0,Moyer,Hudson,None,2:57,D,15414.0,1.34,3,,7
+10,"Friday, Apr 13",SEA,@,ANA,L,3.0,4.0,9.0,7-3,1.0,up 1.0,Hasegawa,Sasaki,None,2:31,N,31087.0,1.42,-1,,7
+11,"Saturday, Apr 14",SEA,@,ANA,W,2.0,1.0,9.0,8-3,1.0,up 2.0,Garcia,Valdez,Sasaki,2:52,N,34780.0,1.44,1,,8
+12,"Sunday, Apr 15",SEA,@,ANA,W,7.0,5.0,9.0,9-3,1.0,up 2.5,Paniagua,Hasegawa,Nelson,2:55,D,20733.0,1.48,2,,9
+13,"Monday, Apr 16",SEA,Home,TEX,W,9.0,7.0,9.0,10-3,1.0,up 3.5,Franklin,Glynn,None,3:21,N,45657.0,1.47,3,,10
+14,"Tuesday, Apr 17",SEA,Home,TEX,W,6.0,4.0,9.0,11-3,1.0,up 4.5,Moyer,Helling,Sasaki,2:57,N,34536.0,1.43,4,,11
+15,"Wednesday, Apr 18",SEA,Home,TEX,L,6.0,8.0,9.0,11-4,1.0,up 3.5,Davis,Tomko,Zimmerman,3:34,N,48823.0,1.45,-1,,11
+16,"Thursday, Apr 19",SEA,Home,ANA,W,3.0,2.0,9.0,12-4,1.0,up 4.5,Garcia,Valdez,Sasaki,2:40,N,25016.0,1.43,1,,12
+17,"Friday, Apr 20",SEA,Home,ANA,W,4.0,1.0,9.0,13-4,1.0,up 4.5,Halama,Rapp,Sasaki,2:23,N,38518.0,1.40,2,,13
+18,"Saturday, Apr 21",SEA,Home,ANA,W,5.0,2.0,9.0,14-4,1.0,up 5.5,Moyer,Washburn,Nelson,3:11,D,39274.0,1.35,3,,14
+19,"Sunday, Apr 22",SEA,Home,ANA,W,5.0,0.0,9.0,15-4,1.0,up 5.5,Sele,Ortiz,None,2:56,D,44192.0,1.36,4,,15
+20,"Tuesday, Apr 24",SEA,@,NYY,W,7.0,5.0,9.0,16-4,1.0,up 6.5,Garcia,Stanton,Sasaki,2:50,N,29522.0,1.13,5,,16
+21,"Wednesday, Apr 25",SEA,@,NYY,W,7.0,5.0,9.0,17-4,1.0,up 7.5,Charlton,Pettitte,Sasaki,3:35,N,23684.0,1.07,6,,17
+22,"Thursday, Apr 26",SEA,@,NYY,W,7.0,3.0,9.0,18-4,1.0,up 8.0,Moyer,Mussina,Rhodes,3:39,N,30218.0,1.05,7,,18
+23,"Friday, Apr 27",SEA,@,CHW,W,8.0,3.0,9.0,19-4,1.0,up 8.0,Sele,Baldwin,Sasaki,3:22,N,16276.0,.96,8,,19
+24,"Saturday, Apr 28",SEA,@,CHW,W,8.0,5.0,9.0,20-4,1.0,up 9.0,Tomko,Biddle,Sasaki,3:38,N,25542.0,.92,9,,20
+25,"Sunday, Apr 29",SEA,@,CHW,L,1.0,2.0,14.0,20-5,1.0,up 9.0,Glover,Franklin,None,4:03,D,25442.0,.84,-1,,20
+26,"Tuesday, May 1",SEA,Home,BOS,L,0.0,2.0,9.0,20-6,1.0,up 9.0,Martinez,Halama,Arrojo,2:43,N,36642.0,.89,-2,,20
+27,"Wednesday, May 2",SEA,Home,BOS,W,5.0,1.0,9.0,21-6,1.0,up 9.0,Sele,Nomo,None,2:45,N,40170.0,.95,1,,21
+28,"Thursday, May 3",SEA,Home,BOS,W,10.0,3.0,9.0,22-6,1.0,up 9.0,Moyer,Castillo,None,3:02,N,32513.0,.90,2,,22
+29,"Friday, May 4",SEA,Home,TOR,L,3.0,8.0,9.0,22-7,1.0,up 8.0,Parris,Abbott,None,3:08,N,42284.0,.86,-1,,22
+30,"Saturday, May 5",SEA,Home,TOR,W,7.0,5.0,9.0,23-7,1.0,up 9.0,Rhodes,Borbon,Sasaki,3:13,D,42894.0,.93,1,,23
+31,"Sunday, May 6",SEA,Home,TOR,L,3.0,11.0,9.0,23-8,1.0,up 8.0,Carpenter,Halama,None,2:43,D,45080.0,.87,-1,,23
+32,"Tuesday, May 8",SEA,@,BOS,L,4.0,12.0,9.0,23-9,1.0,up 8.0,Nomo,Moyer,None,3:01,N,32941.0,.93,-2,,23
+33,"Wednesday, May 9",SEA,@,BOS,W,10.0,5.0,9.0,24-9,1.0,up 9.0,Nelson,Arrojo,Sasaki,3:35,N,31616.0,.94,1,,24
+34,"Thursday, May 10",SEA,@,BOS,W,5.0,2.0,9.0,25-9,1.0,up 9.0,Halama,Ohka,Sasaki,3:00,N,31428.0,.84,2,,25
+35,"Friday, May 11",SEA,@,TOR,W,7.0,2.0,9.0,26-9,1.0,up10.0,Abbott,Hamilton,None,2:57,N,20279.0,.85,3,,26
+36,"Saturday, May 12",SEA,@,TOR,W,11.0,7.0,9.0,27-9,1.0,up11.0,Tomko,Escobar,None,3:24,D,24908.0,.75,4,,27
+37,"Sunday, May 13",SEA,@,TOR,W,7.0,5.0,9.0,28-9,1.0,up11.0,Moyer,Loaiza,Sasaki,3:09,D,20624.0,.66,5,,28
+38,"Tuesday, May 15",SEA,Home,CHW,W,4.0,3.0,9.0,29-9,1.0,up12.0,Nelson,Howry,Paniagua,3:16,N,31096.0,.61,6,,29
+39,"Wednesday, May 16",SEA,Home,CHW,W,7.0,2.0,9.0,30-9,1.0,up12.0,Abbott,Biddle,Paniagua,2:58,N,33748.0,.55,7,,30
+40,"Thursday, May 17",SEA,Home,CHW,W,5.0,1.0,9.0,31-9,1.0,up12.0,Garcia,Wells,Nelson,2:53,D,43510.0,.53,8,,31
+41,"Friday, May 18",SEA,Home,NYY,L,10.0,14.0,9.0,31-10,1.0,up12.0,Mendoza,Halama,None,3:31,N,45794.0,.49,-1,,31
+42,"Saturday, May 19",SEA,Home,NYY,L,1.0,2.0,10.0,31-11,1.0,up11.0,Stanton,Sasaki,Rivera,3:20,D,45880.0,.57,-2,,31
+43,"Sunday, May 20",SEA,Home,NYY,W,6.0,2.0,9.0,32-11,1.0,up11.0,Sele,Clemens,None,2:50,D,45953.0,.61,1,,32
+44,"Tuesday, May 22",SEA,@,MIN,L,11.0,12.0,9.0,32-12,1.0,up10.0,Wells,Abbott,None,3:28,N,29005.0,.62,-1,,32
+45,"Wednesday, May 23",SEA,@,MIN,W,5.0,4.0,9.0,33-12,1.0,up11.0,Rhodes,Carrasco,Sasaki,3:18,D,26605.0,.71,1,,33
+46,"Friday, May 25",SEA,@,KCR,W,9.0,6.0,9.0,34-12,1.0,up11.0,Franklin,Grimsley,Sasaki,3:08,N,17555.0,.57,2,,34
+47,"Saturday, May 26",SEA,@,KCR,W,7.0,2.0,9.0,35-12,1.0,up11.5,Sele,Meadows,None,2:55,N,21368.0,.52,3,,35
+48,"Sunday, May 27",SEA,@,KCR,W,5.0,4.0,11.0,36-12,1.0,up12.5,Charlton,Santiago,None,3:27,D,19524.0,.47,4,,36
+49,"Monday, May 28",SEA,@,KCR,W,13.0,3.0,9.0,37-12,1.0,up13.0,Abbott,Durbin,None,2:57,D,20142.0,.39,5,,37
+50,"Tuesday, May 29",SEA,Home,BAL,W,3.0,2.0,9.0,38-12,1.0,up14.0,Garcia,Roberts,Sasaki,2:40,N,30413.0,.36,6,,38
+51,"Wednesday, May 30",SEA,Home,BAL,W,12.0,5.0,9.0,39-12,1.0,up14.0,Halama,Johnson,None,3:43,N,34757.0,.29,7,,39
+52,"Thursday, May 31",SEA,Home,BAL,W,2.0,1.0,9.0,40-12,1.0,up14.0,Sele,Mercedes,Sasaki,2:44,N,37612.0,.26,8,,40
+53,"Friday, Jun 1",SEA,Home,TBD,W,8.0,4.0,9.0,41-12,1.0,up15.0,Moyer,Rekar,Nelson,3:23,N,41094.0,.24,9,,41
+54,"Saturday, Jun 2",SEA,Home,TBD,W,7.0,4.0,9.0,42-12,1.0,up16.0,Abbott,Rupe,Sasaki,3:18,N,45473.0,.20,10,,42
+55,"Sunday, Jun 3",SEA,Home,TBD,W,8.0,4.0,9.0,43-12,1.0,up16.0,Garcia,Sturtze,Sasaki,3:16,D,45390.0,.17,11,,43
+56,"Monday, Jun 4",SEA,Home,TEX,W,11.0,6.0,9.0,44-12,1.0,up16.5,Franklin,Venafro,None,3:02,N,45812.0,.18,12,,44
+57,"Tuesday, Jun 5",SEA,Home,TEX,W,5.0,4.0,9.0,45-12,1.0,up16.5,Paniagua,Smart,Sasaki,2:56,N,44853.0,.14,13,,45
+58,"Wednesday, Jun 6",SEA,Home,TEX,W,7.0,3.0,9.0,46-12,1.0,up17.5,Moyer,Oliver,None,3:14,N,45754.0,.12,14,,46
+59,"Friday, Jun 8",SEA,Home,SDP,W,7.0,1.0,9.0,47-12,1.0,up17.0,Abbott,Jarvis,None,2:43,N,45293.0,.09,15,,47
+60,"Saturday, Jun 9",SEA,Home,SDP,L,3.0,6.0,9.0,47-13,1.0,up17.0,Jones,Garcia,Hoffman,3:03,N,45322.0,.09,-1,,47
+61,"Sunday, Jun 10",SEA,Home,SDP,W,8.0,1.0,9.0,48-13,1.0,up17.0,Halama,Loewer,None,2:47,D,45418.0,.09,1,,48
+62,"Tuesday, Jun 12",SEA,@,COL,W,10.0,9.0,9.0,49-13,1.0,up18.0,Fuentes,Acevedo,Sasaki,3:24,N,41263.0,.09,2,,49
+63,"Thursday, Jun 14 (1)",SEA,@,COL,L,2.0,8.0,9.0,49-14,1.0,up18.0,Chacon,Moyer,None,2:40,D,45261.0,.07,-1,2001-06-13 (Rain),49
+64,"Thursday, Jun 14 (2)",SEA,@,COL,W,5.0,1.0,9.0,50-14,1.0,up18.0,Abbott,Astacio,None,2:43,N,37048.0,.09,1,,50
+65,"Friday, Jun 15",SEA,@,SDP,W,8.0,4.0,9.0,51-14,1.0,up19.0,Garcia,Jones,None,3:09,N,60918.0,.06,2,,51
+66,"Saturday, Jun 16",SEA,@,SDP,W,9.0,2.0,9.0,52-14,1.0,up20.0,Halama,Loewer,None,3:03,N,61065.0,.05,3,,52
+67,"Sunday, Jun 17",SEA,@,SDP,L,9.0,11.0,9.0,52-15,1.0,up19.0,Davey,Nelson,Hoffman,3:42,D,36027.0,.03,-1,,52
+68,"Monday, Jun 18",SEA,@,OAK,L,3.0,4.0,9.0,52-16,1.0,up18.5,Zito,Charlton,Isringhausen,2:40,N,16368.0,.04,-2,,52
+69,"Tuesday, Jun 19",SEA,@,OAK,W,8.0,7.0,9.0,53-16,1.0,up19.5,Rhodes,Isringhausen,Sasaki,3:19,N,17542.0,.04,1,,53
+70,"Wednesday, Jun 20",SEA,@,OAK,L,4.0,6.0,9.0,53-17,1.0,up18.5,Guthrie,Sasaki,None,2:57,N,40639.0,.03,-1,,53
+71,"Thursday, Jun 21",SEA,@,OAK,W,12.0,10.0,9.0,54-17,1.0,up19.5,Paniagua,Tam,Rhodes,3:37,D,23642.0,.04,1,,54
+72,"Friday, Jun 22",SEA,Home,ANA,L,1.0,8.0,9.0,54-18,1.0,up18.5,Washburn,Sele,None,2:50,N,45461.0,.03,-1,,54
+73,"Saturday, Jun 23",SEA,Home,ANA,L,1.0,2.0,9.0,54-19,1.0,up17.5,Rapp,Moyer,Percival,2:49,N,45430.0,.04,-2,,54
+74,"Sunday, Jun 24",SEA,Home,ANA,W,7.0,3.0,9.0,55-19,1.0,up18.5,Abbott,Schoeneweis,Sasaki,3:01,D,45722.0,.05,1,,55
+75,"Tuesday, Jun 26",SEA,Home,OAK,W,7.0,3.0,9.0,56-19,1.0,up19.0,Garcia,Mulder,None,3:12,N,45337.0,.04,2,,56
+76,"Wednesday, Jun 27",SEA,Home,OAK,L,3.0,6.0,9.0,56-20,1.0,up18.0,Hudson,Halama,Isringhausen,3:13,N,45104.0,.03,-1,,56
+77,"Thursday, Jun 28",SEA,Home,OAK,L,3.0,6.0,9.0,56-21,1.0,up18.0,Guthrie,Fuentes,Isringhausen,3:01,D,45399.0,.04,-2,,56
+78,"Friday, Jun 29",SEA,@,ANA,W,9.0,5.0,9.0,57-21,1.0,up19.0,Moyer,Schoeneweis,None,2:51,N,40822.0,.04,1,,57
+79,"Saturday, Jun 30",SEA,@,ANA,W,5.0,3.0,9.0,58-21,1.0,up20.0,Stark,Ortiz,Sasaki,2:54,D,27784.0,.02,2,,58
+80,"Sunday, Jul 1",SEA,@,ANA,W,5.0,0.0,9.0,59-21,1.0,up21.0,Garcia,Wise,None,2:56,N,28887.0,.02,3,,59
+81,"Monday, Jul 2",SEA,@,TEX,W,9.0,7.0,10.0,60-21,1.0,up21.0,Nelson,Petkovsek,Sasaki,3:51,N,28487.0,.01,4,,60
+82,"Tuesday, Jul 3",SEA,@,TEX,W,8.0,4.0,9.0,61-21,1.0,up21.0,Sele,Oliver,None,2:58,N,41849.0,.01,5,,61
+83,"Wednesday, Jul 4",SEA,@,TEX,L,3.0,6.0,9.0,61-22,1.0,up20.0,Bell,Moyer,Venafro,2:50,N,49103.0,.01,-1,,61
+84,"Thursday, Jul 5",SEA,@,TEX,L,2.0,14.0,9.0,61-23,1.0,up20.0,Rogers,Stark,None,2:52,N,29797.0,.01,-2,,61
+85,"Friday, Jul 6",SEA,@,LAD,W,13.0,0.0,9.0,62-23,1.0,up20.0,Garcia,Brown,None,3:06,N,53072.0,.01,1,,62
+86,"Saturday, Jul 7",SEA,@,LAD,L,1.0,2.0,9.0,62-24,1.0,up19.0,Herges,Paniagua,None,2:59,D,40937.0,.01,-1,,62
+87,"Sunday, Jul 8",SEA,@,LAD,W,9.0,2.0,9.0,63-24,1.0,up19.0,Sele,Williams,None,2:28,D,40511.0,.01,1,,63
+88,"Thursday, Jul 12",SEA,Home,SFG,W,4.0,3.0,11.0,64-24,1.0,up19.0,Rhodes,Boehringer,None,3:39,N,45696.0,.01,2,,64
+89,"Friday, Jul 13",SEA,Home,SFG,L,3.0,5.0,9.0,64-25,1.0,up18.0,Ortiz,Moyer,Nen,2:42,N,45909.0,.01,-1,,64
+90,"Saturday, Jul 14",SEA,Home,SFG,W,3.0,2.0,9.0,65-25,1.0,up19.0,Garcia,Estes,Sasaki,2:41,D,45809.0,.01,1,,65
+91,"Sunday, Jul 15",SEA,Home,ARI,W,8.0,0.0,9.0,66-25,1.0,up19.0,Sele,Ellis,None,2:25,N,45855.0,.01,2,,66
+92,"Monday, Jul 16",SEA,Home,ARI,L,3.0,5.0,9.0,66-26,1.0,up18.0,Batista,Halama,Kim,3:15,N,45770.0,.01,-1,,66
+93,"Tuesday, Jul 17",SEA,Home,ARI,W,6.0,1.0,9.0,67-26,1.0,up18.0,Abbott,Anderson,None,2:39,D,45894.0,.01,1,,67
+94,"Wednesday, Jul 18",SEA,@,KCR,W,2.0,0.0,10.0,68-26,1.0,up18.0,Nelson,Hernandez,Sasaki,2:40,N,15818.0,.01,2,,68
+95,"Thursday, Jul 19",SEA,@,KCR,L,3.0,6.0,9.0,68-27,1.0,up18.0,Wilson,Garcia,None,2:58,N,21566.0,.01,-1,,68
+96,"Friday, Jul 20",SEA,@,MIN,W,4.0,0.0,9.0,69-27,1.0,up18.0,Sele,Mays,None,2:52,N,36863.0,.00,1,,69
+97,"Saturday, Jul 21",SEA,@,MIN,W,6.0,3.0,9.0,70-27,1.0,up18.0,Halama,Johnson,Sasaki,2:55,D,33501.0,.00,2,,70
+98,"Sunday, Jul 22",SEA,@,MIN,W,6.0,3.0,9.0,71-27,1.0,up19.0,Abbott,Lohse,None,2:55,D,44665.0,.00,3,,71
+99,"Monday, Jul 23",SEA,@,MIN,W,3.0,2.0,9.0,72-27,1.0,up19.0,Moyer,Radke,Sasaki,2:56,D,31220.0,.00,4,,72
+100,"Tuesday, Jul 24",SEA,Home,KCR,L,1.0,6.0,9.0,72-28,1.0,up18.0,Wilson,Garcia,None,2:39,N,45119.0,.00,-1,,72
+101,"Wednesday, Jul 25",SEA,Home,KCR,L,1.0,5.0,9.0,72-29,1.0,up18.0,Byrd,Sele,None,2:29,N,45265.0,.00,-2,,72
+102,"Thursday, Jul 26",SEA,Home,KCR,W,4.0,0.0,9.0,73-29,1.0,up19.0,Pineiro,George,None,2:36,N,44519.0,.00,1,,73
+103,"Friday, Jul 27",SEA,Home,MIN,W,11.0,4.0,9.0,74-29,1.0,up19.0,Abbott,Lohse,None,2:43,N,45808.0,.00,2,,74
+104,"Saturday, Jul 28",SEA,Home,MIN,W,5.0,1.0,9.0,75-29,1.0,up20.0,Moyer,Radke,None,2:39,D,45681.0,.00,3,,75
+105,"Sunday, Jul 29",SEA,Home,MIN,W,10.0,2.0,9.0,76-29,1.0,up20.0,Garcia,Milton,None,2:47,D,45780.0,.00,4,,76
+106,"Tuesday, Jul 31",SEA,@,DET,L,2.0,4.0,9.0,76-30,1.0,up19.0,Lima,Sele,Anderson,2:24,N,30022.0,.00,-1,,76
+107,"Wednesday, Aug 1",SEA,@,DET,W,7.0,1.0,9.0,77-30,1.0,up20.0,Abbott,Holt,None,3:01,N,23847.0,.00,1,,77
+108,"Thursday, Aug 2",SEA,@,DET,W,2.0,1.0,9.0,78-30,1.0,up20.0,Pineiro,Pettyjohn,Sasaki,2:23,N,27097.0,.00,2,,78
+109,"Friday, Aug 3",SEA,@,CLE,W,2.0,1.0,9.0,79-30,1.0,up20.0,Moyer,Colon,Sasaki,2:36,N,42580.0,.00,3,,79
+110,"Saturday, Aug 4",SEA,@,CLE,W,8.0,5.0,9.0,80-30,1.0,up20.0,Garcia,Báez,Rhodes,3:48,D,42440.0,.00,4,,80
+111,"Sunday, Aug 5",SEA,@,CLE,L,14.0,15.0,11.0,80-31,1.0,up19.0,Rocker,Paniagua,None,4:11,N,42494.0,.00,-1,,80
+112,"Monday, Aug 6",SEA,@,CLE,W,8.0,6.0,9.0,81-31,1.0,up19.0,Abbott,Nagy,Paniagua,3:31,N,42058.0,.00,1,,81
+113,"Tuesday, Aug 7",SEA,Home,TOR,W,5.0,4.0,14.0,82-31,1.0,up19.0,Halama,DeWitt,None,4:37,N,45636.0,.00,2,,82
+114,"Wednesday, Aug 8",SEA,Home,TOR,W,12.0,4.0,9.0,83-31,1.0,up19.0,Moyer,Carpenter,None,2:47,N,45450.0,.00,3,,83
+115,"Thursday, Aug 9",SEA,Home,TOR,L,5.0,6.0,9.0,83-32,1.0,up18.0,Quantrill,Garcia,Koch,3:13,N,45670.0,.00,-1,,83
+116,"Friday, Aug 10",SEA,Home,CHW,L,6.0,8.0,9.0,83-33,1.0,up17.0,Biddle,Sasaki,Foulke,3:19,N,45665.0,.00,-2,,83
+117,"Saturday, Aug 11",SEA,Home,CHW,W,4.0,3.0,9.0,84-33,1.0,up17.0,Franklin,Foulke,None,3:04,N,45898.0,.00,1,,84
+118,"Sunday, Aug 12",SEA,Home,CHW,W,2.0,1.0,9.0,85-33,1.0,up17.0,Rhodes,Wells,Sasaki,2:48,N,45765.0,.00,2,,85
+119,"Tuesday, Aug 14",SEA,@,BOS,W,6.0,3.0,11.0,86-33,1.0,up18.0,Paniagua,Beck,Sasaki,3:53,N,33790.0,.00,3,,86
+120,"Wednesday, Aug 15",SEA,@,BOS,W,6.0,2.0,9.0,87-33,1.0,up19.0,Garcia,Castillo,None,2:44,N,33186.0,.00,4,,87
+121,"Thursday, Aug 16",SEA,@,BOS,L,4.0,6.0,9.0,87-34,1.0,up18.0,Garces,Sele,Urbina,2:43,N,33548.0,.00,-1,,87
+122,"Friday, Aug 17",SEA,@,NYY,L,0.0,4.0,9.0,87-35,1.0,up17.0,Mussina,Abbott,Mendoza,2:51,N,54616.0,.00,-2,,87
+123,"Saturday, Aug 18",SEA,@,NYY,W,7.0,6.0,9.0,88-35,1.0,up17.0,Rhodes,Lilly,Sasaki,3:47,D,55294.0,.00,1,,88
+124,"Sunday, Aug 19",SEA,@,NYY,W,10.0,2.0,9.0,89-35,1.0,up17.0,Moyer,Pettitte,None,3:07,D,54339.0,.00,2,,89
+125,"Monday, Aug 20",SEA,Home,DET,L,1.0,4.0,9.0,89-36,1.0,up16.0,Sparks,Garcia,None,2:22,N,45972.0,.00,-1,,89
+126,"Tuesday, Aug 21",SEA,Home,DET,W,4.0,1.0,9.0,90-36,1.0,up17.0,Sele,Weaver,Sasaki,2:20,N,45036.0,.00,1,,90
+127,"Wednesday, Aug 22",SEA,Home,DET,W,16.0,1.0,9.0,91-36,1.0,up18.0,Abbott,Lima,None,2:57,N,45814.0,.00,2,,91
+128,"Thursday, Aug 23",SEA,Home,DET,W,5.0,1.0,9.0,92-36,1.0,up19.0,Pineiro,Redman,None,3:10,D,45063.0,.00,3,,92
+129,"Friday, Aug 24",SEA,Home,CLE,W,4.0,1.0,9.0,93-36,1.0,up20.0,Moyer,Colon,Charlton,2:42,N,45767.0,.00,4,,93
+130,"Saturday, Aug 25",SEA,Home,CLE,W,3.0,2.0,11.0,94-36,1.0,up20.0,Halama,Rocker,None,4:07,D,45818.0,.00,5,,94
+131,"Sunday, Aug 26",SEA,Home,CLE,L,3.0,4.0,9.0,94-37,1.0,up19.0,Riske,Nelson,Wickman,3:22,D,45782.0,.00,-1,,94
+132,"Tuesday, Aug 28",SEA,@,TBD,L,0.0,6.0,9.0,94-38,1.0,up18.0,Wilson,Pineiro,None,2:33,N,11687.0,.00,-2,,94
+133,"Wednesday, Aug 29",SEA,@,TBD,W,5.0,2.0,9.0,95-38,1.0,up18.0,Moyer,Sturtze,None,2:30,N,12792.0,.00,1,,95
+134,"Thursday, Aug 30",SEA,@,TBD,W,4.0,0.0,9.0,96-38,1.0,up18.0,Garcia,Rupe,None,3:05,D,12260.0,.00,2,,96
+135,"Friday, Aug 31",SEA,@,BAL,L,0.0,3.0,9.0,96-39,1.0,up17.0,Maduro,Sele,None,2:28,N,37084.0,.00,-1,,96
+136,"Saturday, Sep 1",SEA,@,BAL,W,6.0,4.0,9.0,97-39,1.0,up18.0,Abbott,Mercedes,Sasaki,3:34,D,45668.0,.00,1,,97
+137,"Sunday, Sep 2",SEA,@,BAL,W,1.0,0.0,9.0,98-39,1.0,up18.0,Pineiro,Bauer,Sasaki,2:45,D,45359.0,.00,2,,98
+138,"Monday, Sep 3",SEA,Home,TBD,W,3.0,2.0,11.0,99-39,1.0,up18.0,Charlton,Yan,None,3:35,N,45728.0,.00,3,,99
+139,"Tuesday, Sep 4",SEA,Home,TBD,L,3.0,8.0,10.0,99-40,1.0,up17.0,Zambrano,Charlton,None,3:03,N,44859.0,.00,-1,,99
+140,"Wednesday, Sep 5",SEA,Home,TBD,W,12.0,6.0,9.0,100-40,1.0,up17.0,Halama,Phelps,None,3:19,N,44720.0,.00,1,,100
+141,"Friday, Sep 7",SEA,Home,BAL,W,10.0,1.0,9.0,101-40,1.0,up17.0,Abbott,Mercedes,None,2:52,N,45797.0,.00,2,,101
+142,"Saturday, Sep 8",SEA,Home,BAL,W,6.0,1.0,9.0,102-40,1.0,up17.0,Pineiro,Bauer,None,2:32,N,45894.0,.00,3,,102
+143,"Sunday, Sep 9",SEA,Home,BAL,W,6.0,0.0,9.0,103-40,1.0,up17.0,Moyer,Towers,None,2:21,D,45344.0,.00,4,,103
+144,"Monday, Sep 10",SEA,@,ANA,W,5.0,1.0,9.0,104-40,1.0,up17.0,Garcia,Valdez,None,3:08,N,20311.0,.00,5,,104
+145,"Tuesday, Sep 18",SEA,Home,ANA,W,4.0,0.0,9.0,105-40,1.0,up17.0,Garcia,Ortiz,None,2:20,N,45294.0,.00,6,,105
+146,"Wednesday, Sep 19",SEA,Home,ANA,W,5.0,0.0,9.0,106-40,1.0,up18.0,Moyer,Schoeneweis,None,2:54,N,45459.0,.00,7,,106
+147,"Thursday, Sep 20",SEA,Home,ANA,L,3.0,6.0,9.0,106-41,1.0,up17.0,Hasegawa,Halama,Percival,3:07,D,44768.0,.00,-1,,106
+148,"Friday, Sep 21",SEA,@,OAK,L,1.0,5.0,9.0,106-42,1.0,up16.0,Lidle,Abbott,Isringhausen,3:01,N,30387.0,.00,-2,,106
+149,"Saturday, Sep 22",SEA,@,OAK,L,2.0,11.0,9.0,106-43,1.0,up15.0,Hiljus,Pineiro,None,3:12,D,45734.0,.00,-3,,106
+150,"Sunday, Sep 23",SEA,@,OAK,L,4.0,7.0,9.0,106-44,1.0,up14.0,Mulder,Garcia,Isringhausen,3:03,D,38628.0,.00,-4,,106
+151,"Monday, Sep 24",SEA,@,TEX,W,9.0,3.0,9.0,107-44,1.0,up14.5,Moyer,Davis,None,3:38,N,22765.0,.00,1,,107
+152,"Tuesday, Sep 25",SEA,@,TEX,W,13.0,2.0,9.0,108-44,1.0,up14.5,Sele,Duchscherer,None,3:08,N,27781.0,.00,2,,108
+153,"Wednesday, Sep 26",SEA,@,TEX,W,7.0,5.0,9.0,109-44,1.0,up14.5,Abbott,Bell,Sasaki,3:26,D,24712.0,.00,3,,109
+154,"Friday, Sep 28",SEA,Home,OAK,W,5.0,3.0,9.0,110-44,1.0,up15.0,Garcia,Mulder,Sasaki,2:43,N,45695.0,.00,4,,110
+155,"Saturday, Sep 29",SEA,Home,OAK,L,4.0,8.0,9.0,110-45,1.0,up14.0,Hiljus,Moyer,None,3:11,N,45104.0,.00,-1,,110
+156,"Sunday, Sep 30",SEA,Home,OAK,W,6.0,3.0,9.0,111-45,1.0,up15.0,Sele,Hudson,None,2:50,D,45674.0,.00,1,,111
+157,"Tuesday, Oct 2",SEA,@,ANA,W,14.0,5.0,9.0,112-45,1.0,up15.0,Abbott,Washburn,None,3:17,N,18600.0,.00,2,2001-09-11 (9/11 attack),112
+158,"Wednesday, Oct 3",SEA,@,ANA,W,4.0,3.0,9.0,113-45,1.0,up15.0,Charlton,Levine,Sasaki,3:22,N,18503.0,.00,3,2001-09-12 (9/11 attack),113
+159,"Thursday, Oct 4",SEA,Home,TEX,W,16.0,1.0,9.0,114-45,1.0,up15.0,Tomko,Myette,None,3:16,N,45302.0,.00,4,2001-09-13 (9/11 attack),114
+160,"Friday, Oct 5",SEA,Home,TEX,W,6.0,2.0,9.0,115-45,1.0,up15.0,Moyer,Helling,None,2:16,N,45333.0,.00,5,2001-09-14 (9/11 attack),115
+161,"Saturday, Oct 6",SEA,Home,TEX,W,1.0,0.0,9.0,116-45,1.0,up15.0,Pineiro,Davis,Sasaki,2:19,N,45607.0,.00,6,2001-09-15 (9/11 attack),116
+162,"Sunday, Oct 7",SEA,Home,TEX,L,3.0,4.0,9.0,116-46,1.0,up14.0,Mahomes,Nelson,Zimmerman,2:56,D,45578.0,.00,-1,2001-09-16 (9/11 attack),116

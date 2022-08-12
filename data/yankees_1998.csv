@@ -1,0 +1,163 @@
+,Date,Tm,Home_Away,Opp,W/L,R,RA,Inn,W-L,Rank,GB,Win,Loss,Save,Time,D/N,Attendance,cLI,Streak,Orig. Scheduled,win-count
+1,"Wednesday, Apr 1",NYY,@,ANA,L,1.0,4.0,9.0,0-1,5.0,1.0,Finley,Pettitte,Percival,2:52,N,43311.0,1.00,-1,,0
+2,"Thursday, Apr 2",NYY,@,ANA,L,2.0,10.0,9.0,0-2,5.0,2.0,Hill,Wells,None,3:19,N,29899.0,.95,-2,,0
+3,"Saturday, Apr 4",NYY,@,OAK,L,3.0,7.0,9.0,0-3,5.0,3.0,Haynes,Cone,None,2:57,D,17118.0,.93,-3,,0
+4,"Sunday, Apr 5",NYY,@,OAK,W,9.0,7.0,10.0,1-3,5.0,3.0,Nelson,Mohler,None,4:15,D,18109.0,.84,1,,1
+5,"Monday, Apr 6",NYY,@,SEA,L,0.0,8.0,9.0,1-4,5.0,3.5,Moyer,Pettitte,None,3:08,N,27445.0,.88,-1,,1
+6,"Tuesday, Apr 7",NYY,@,SEA,W,13.0,7.0,9.0,2-4,4.0,3.5,Wells,Bullinger,None,3:47,N,28424.0,.88,1,,2
+7,"Wednesday, Apr 8",NYY,@,SEA,W,4.0,3.0,9.0,3-4,3.0,3.0,Lloyd,Ayala,Stanton,3:42,D,33922.0,.91,2,,3
+8,"Friday, Apr 10",NYY,Home,OAK,W,17.0,13.0,9.0,4-4,2.0,2.5,Buddie,Dougherty,None,4:06,D,56717.0,.93,3,,4
+9,"Saturday, Apr 11",NYY,Home,OAK,W,3.0,1.0,9.0,5-4,2.0,2.5,Pettitte,Candiotti,Stanton,3:08,D,33238.0,.99,4,,5
+10,"Sunday, Apr 12",NYY,Home,OAK,W,7.0,5.0,9.0,6-4,2.0,2.5,Buddie,Mathews,Stanton,3:16,D,27057.0,1.02,5,,6
+11,"Wednesday, Apr 15",NYY,Home,ANA,W,6.0,3.0,9.0,7-4,3.0,2.0,Wells,Hill,Nelson,2:53,D,40743.0,1.04,6,1998-04-15 (Stadium damage; Played at NYN; NYA home team),7
+12,"Friday, Apr 17",NYY,@,DET,W,11.0,2.0,9.0,8-4,3.0,0.5,Pettitte,Thompson,None,3:06,N,12348.0,1.07,7,1998-04-17 (Stadium structural problems; Site change),8
+13,"Saturday, Apr 18",NYY,@,DET,W,8.0,3.0,9.0,9-4,2.0,0.5,Cone,Keagle,None,3:38,D,13803.0,1.14,8,1998-04-18 (Stadium structural problems; Site change),9
+14,"Sunday, Apr 19",NYY,@,DET,L,1.0,2.0,9.0,9-5,3.0,0.5,Moehler,Holmes,Jones,2:47,D,12568.0,1.18,-1,1998-04-19 (Stadium structural problems; Site change),9
+15,"Monday, Apr 20",NYY,@,TOR,W,3.0,2.0,11.0,10-5,2.0,0.5,Banks,Risley,Stanton,4:05,N,26385.0,1.21,1,,10
+16,"Tuesday, Apr 21",NYY,@,TOR,W,5.0,3.0,10.0,11-5,2.0,0.5,Stanton,Plesac,None,3:24,N,27192.0,1.25,2,,11
+17,"Wednesday, Apr 22",NYY,@,TOR,W,9.0,1.0,9.0,12-5,2.0,0.5,Pettitte,Clemens,None,2:50,N,29164.0,1.31,3,,12
+18,"Friday, Apr 24",NYY,Home,DET,W,8.0,4.0,9.0,13-5,2.0,0.5,Cone,Keagle,None,3:03,N,26173.0,1.21,4,1998-04-24 (Stadium structural problems; Site change),13
+19,"Saturday, Apr 25",NYY,Home,DET,W,5.0,4.0,9.0,14-5,2.0,0.5,Wells,Runyan,Rivera,2:53,D,33196.0,1.23,5,1998-04-25 (Stadium structural problems; Site change),14
+20,"Monday, Apr 27",NYY,Home,TOR,W,1.0,0.0,9.0,15-5,2.0,0.5,Pettitte,Clemens,Rivera,2:54,N,17863.0,1.33,6,,15
+21,"Tuesday, Apr 28",NYY,Home,TOR,L,2.0,5.0,9.0,15-6,2.0,0.5,Williams,Mendoza,Myers,3:17,N,18727.0,1.30,-1,,15
+22,"Wednesday, Apr 29",NYY,Home,SEA,W,8.0,5.0,9.0,16-6,2.0,0.5,Cone,Fassero,Rivera,3:31,N,27949.0,1.33,1,,16
+23,"Thursday, Apr 30",NYY,Home,SEA,W,9.0,8.0,10.0,17-6,1.0,up 0.5,Rivera,Ayala,None,4:08,N,28517.0,1.28,2,,17
+24,"Friday, May 1",NYY,@,KCR,W,2.0,1.0,9.0,18-6,1.0,up 0.5,Irabu,Rapp,Rivera,2:43,N,19002.0,1.25,3,,18
+25,"Saturday, May 2",NYY,@,KCR,W,12.0,6.0,9.0,19-6,1.0,up 1.5,Pettitte,Haney,None,3:27,N,22743.0,1.23,4,,19
+26,"Sunday, May 3",NYY,@,KCR,W,10.0,1.0,9.0,20-6,1.0,up 1.5,Mendoza,Belcher,None,2:58,D,22609.0,1.19,5,,20
+27,"Tuesday, May 5",NYY,@,TEX,W,7.0,2.0,9.0,21-6,1.0,up 1.5,Cone,Burkett,None,3:26,N,31693.0,1.22,6,,21
+28,"Wednesday, May 6",NYY,@,TEX,W,15.0,13.0,9.0,22-6,1.0,up 2.5,Stanton,Patterson,Rivera,4:06,N,33274.0,1.16,7,,22
+29,"Friday, May 8",NYY,@,MIN,W,5.0,1.0,9.0,23-6,1.0,up 3.0,Irabu,Radke,Nelson,3:11,N,22612.0,1.07,8,,23
+30,"Saturday, May 9",NYY,@,MIN,L,1.0,8.0,9.0,23-7,1.0,up 2.0,Morgan,Pettitte,None,2:47,N,20471.0,.99,-1,,23
+31,"Sunday, May 10",NYY,@,MIN,W,7.0,0.0,9.0,24-7,1.0,up 2.0,Mendoza,Milton,None,2:52,D,12444.0,1.08,1,,24
+32,"Tuesday, May 12",NYY,Home,KCR,W,3.0,2.0,9.0,25-7,1.0,up 3.5,Wells,Rusch,Rivera,2:37,N,16606.0,1.03,2,,25
+33,"Wednesday, May 13",NYY,Home,TEX,W,8.0,6.0,9.0,26-7,1.0,up 4.5,Cone,Helling,Rivera,3:13,N,23142.0,1.02,3,,26
+34,"Thursday, May 14",NYY,Home,TEX,L,5.0,7.0,13.0,26-8,1.0,up 4.5,Patterson,Banks,Wetteland,4:53,N,20694.0,.97,-1,,26
+35,"Friday, May 15",NYY,Home,MIN,L,6.0,7.0,9.0,26-9,1.0,up 3.5,Milton,Pettitte,Aguilera,3:27,N,31272.0,.94,-2,,26
+36,"Saturday, May 16",NYY,Home,MIN,W,5.0,2.0,9.0,27-9,1.0,up 3.5,Mendoza,Tewksbury,Rivera,2:22,D,35137.0,1.02,1,,27
+37,"Sunday, May 17",NYY,Home,MIN,W,4.0,0.0,9.0,28-9,1.0,up 3.5,Wells,Hawkins,None,2:40,D,49820.0,.95,2,,28
+38,"Tuesday, May 19",NYY,Home,BAL,W,9.0,5.0,9.0,29-9,1.0,up 4.5,Stanton,Charlton,None,3:18,N,31311.0,1.03,3,,29
+39,"Wednesday, May 20",NYY,Home,BAL,W,9.0,6.0,9.0,30-9,1.0,up 4.5,Irabu,Key,None,3:08,N,32449.0,.92,4,,30
+40,"Thursday, May 21",NYY,Home,BAL,W,3.0,1.0,9.0,31-9,1.0,up 5.0,Pettitte,Erickson,Rivera,2:49,N,34588.0,.86,5,,31
+41,"Friday, May 22",NYY,@,BOS,L,4.0,5.0,9.0,31-10,1.0,up 4.0,Wakefield,Nelson,Gordon,2:30,N,33605.0,.89,-1,,31
+42,"Saturday, May 23",NYY,@,BOS,W,12.0,3.0,9.0,32-10,1.0,up 5.0,Wells,Lowe,None,3:16,D,33120.0,.94,1,,32
+43,"Sunday, May 24",NYY,@,BOS,W,14.0,4.0,9.0,33-10,1.0,up 6.0,Cone,Saberhagen,None,3:21,D,33042.0,.82,2,,33
+44,"Monday, May 25",NYY,@,CHW,W,12.0,0.0,9.0,34-10,1.0,up 7.0,Irabu,Navarro,None,2:37,N,19812.0,.63,3,,34
+45,"Tuesday, May 26",NYY,@,CHW,W,7.0,5.0,9.0,35-10,1.0,up 8.0,Nelson,Foulke,Rivera,3:40,N,14596.0,.54,4,,35
+46,"Wednesday, May 27",NYY,@,CHW,L,9.0,12.0,9.0,35-11,1.0,up 7.5,Simas,Nelson,Karchner,3:44,N,15232.0,.48,-1,,35
+47,"Thursday, May 28",NYY,Home,BOS,W,8.0,3.0,9.0,36-11,1.0,up 8.5,Wells,Wakefield,Stanton,3:12,N,42182.0,.66,1,,36
+48,"Friday, May 29",NYY,Home,BOS,W,6.0,2.0,9.0,37-11,1.0,up 9.5,Cone,Lowe,None,2:41,N,47160.0,.55,2,,37
+49,"Saturday, May 30",NYY,Home,BOS,L,2.0,3.0,9.0,37-12,1.0,up 8.5,Saberhagen,Irabu,Gordon,2:57,D,55191.0,.46,-1,,37
+50,"Sunday, May 31",NYY,Home,BOS,L,7.0,13.0,9.0,37-13,1.0,up 7.5,Martinez,Pettitte,None,3:45,D,55711.0,.56,-2,,37
+51,"Monday, Jun 1",NYY,Home,CHW,W,5.0,4.0,10.0,38-13,1.0,up 7.5,Nelson,Karchner,None,3:17,N,19131.0,.50,1,,38
+52,"Tuesday, Jun 2",NYY,Home,CHW,W,6.0,3.0,9.0,39-13,1.0,up 7.5,Wells,Sirotka,Rivera,2:28,N,22599.0,.47,2,,39
+53,"Wednesday, Jun 3",NYY,Home,TBD,W,7.0,1.0,9.0,40-13,1.0,up 8.5,Hernandez,Saunders,None,2:52,N,27291.0,.46,3,,40
+54,"Thursday, Jun 4",NYY,Home,TBD,W,6.0,1.0,9.0,41-13,1.0,up 8.5,Irabu,Springer,None,2:38,N,22759.0,.41,4,,41
+55,"Friday, Jun 5",NYY,Home,FLA,W,5.0,1.0,9.0,42-13,1.0,up 9.5,Pettitte,Fontenot,None,2:41,N,28085.0,.32,5,,42
+56,"Saturday, Jun 6",NYY,Home,FLA,W,4.0,2.0,9.0,43-13,1.0,up10.5,Mendoza,Sanchez,Rivera,2:33,D,36419.0,.29,6,,43
+57,"Sunday, Jun 7",NYY,Home,FLA,W,4.0,1.0,9.0,44-13,1.0,up10.5,Cone,Dempster,None,2:16,D,47731.0,.22,7,,44
+58,"Tuesday, Jun 9",NYY,@,MON,W,11.0,1.0,9.0,45-13,1.0,up11.0,Hernandez,Perez,None,2:39,N,16238.0,.19,8,,45
+59,"Wednesday, Jun 10",NYY,@,MON,W,6.0,2.0,9.0,46-13,1.0,up11.0,Irabu,Hermanson,None,2:39,N,14335.0,.16,9,,46
+60,"Thursday, Jun 11",NYY,@,MON,L,5.0,7.0,9.0,46-14,1.0,up10.5,Valdes,Nelson,Urbina,2:34,N,16036.0,.13,-1,,46
+61,"Sunday, Jun 14",NYY,Home,CLE,W,4.0,2.0,9.0,47-14,1.0,up10.0,Cone,Wright,Rivera,2:48,D,42949.0,.17,1,,47
+62,"Monday, Jun 15",NYY,@,BAL,L,4.0,7.0,9.0,47-15,1.0,up10.0,Erickson,Wells,Orosco,2:52,N,48022.0,.16,-1,,47
+63,"Tuesday, Jun 16",NYY,@,BAL,L,0.0,2.0,9.0,47-16,1.0,up 9.0,Ponson,Irabu,Rhodes,2:36,N,48027.0,.18,-2,,47
+64,"Wednesday, Jun 17",NYY,@,BAL,W,5.0,3.0,9.0,48-16,1.0,up 9.0,Pettitte,Mussina,Rivera,2:50,N,48269.0,.23,1,,48
+65,"Thursday, Jun 18",NYY,@,CLE,W,5.0,2.0,9.0,49-16,1.0,up 9.0,Nelson,Assenmacher,Rivera,3:05,N,43096.0,.16,2,,49
+66,"Friday, Jun 19",NYY,@,CLE,L,4.0,7.0,9.0,49-17,1.0,up 8.0,Wright,Cone,Jackson,3:04,N,43180.0,.14,-1,,49
+67,"Saturday, Jun 20",NYY,@,CLE,W,5.0,3.0,9.0,50-17,1.0,up 9.0,Wells,Burba,Rivera,2:58,D,43259.0,.17,1,,50
+68,"Sunday, Jun 21",NYY,@,CLE,L,0.0,11.0,9.0,50-18,1.0,up 8.0,Colon,Irabu,None,2:50,N,43104.0,.14,-1,,50
+69,"Monday, Jun 22",NYY,Home,ATL,W,6.0,4.0,9.0,51-18,1.0,up 9.0,Nelson,Martinez,Rivera,3:10,N,53316.0,.16,1,,51
+70,"Tuesday, Jun 23",NYY,Home,ATL,L,2.0,7.0,9.0,51-19,1.0,up 9.0,Glavine,Hernandez,None,2:44,N,54775.0,.12,-1,,51
+71,"Wednesday, Jun 24",NYY,@,ATL,W,10.0,6.0,9.0,52-19,1.0,up10.0,Cone,Millwood,Rivera,3:19,N,48980.0,.16,1,,52
+72,"Thursday, Jun 25",NYY,@,ATL,W,6.0,0.0,9.0,53-19,1.0,up10.0,Wells,Neagle,None,2:58,N,49052.0,.13,2,,53
+73,"Friday, Jun 26",NYY,@,NYM,W,8.0,4.0,9.0,54-19,1.0,up10.0,Mendoza,Leiter,Rivera,3:15,N,53404.0,.11,3,,54
+74,"Saturday, Jun 27",NYY,@,NYM,W,7.0,2.0,9.0,55-19,1.0,up10.0,Pettitte,Jones,None,3:23,D,53587.0,.10,4,,55
+75,"Sunday, Jun 28",NYY,@,NYM,L,1.0,2.0,9.0,55-20,1.0,up10.0,Cook,Mendoza,None,3:00,N,53749.0,.08,-1,,55
+76,"Tuesday, Jun 30",NYY,Home,PHI,W,9.0,2.0,9.0,56-20,1.0,up10.0,Cone,Loewer,None,2:22,N,29087.0,.08,1,,56
+77,"Wednesday, Jul 1",NYY,Home,PHI,W,5.0,2.0,9.0,57-20,1.0,up10.0,Wells,Beech,Rivera,2:50,N,28919.0,.07,2,,57
+78,"Thursday, Jul 2",NYY,Home,PHI,W,9.0,8.0,11.0,58-20,1.0,up10.0,Buddie,Spradlin,None,4:03,N,31259.0,.05,3,,58
+79,"Friday, Jul 3",NYY,Home,BAL,W,3.0,2.0,9.0,59-20,1.0,up10.0,Pettitte,Orosco,None,3:20,N,43328.0,.04,4,,59
+80,"Saturday, Jul 4",NYY,Home,BAL,W,4.0,3.0,9.0,60-20,1.0,up11.0,Hernandez,Drabek,Rivera,3:00,D,37390.0,.03,5,,60
+81,"Sunday, Jul 5",NYY,Home,BAL,W,1.0,0.0,9.0,61-20,1.0,up11.0,Cone,Erickson,Rivera,2:30,D,52506.0,.02,6,,61
+82,"Thursday, Jul 9",NYY,@,TBD,W,2.0,0.0,9.0,62-20,1.0,up12.0,Pettitte,Rekar,Rivera,2:46,N,38386.0,.02,7,,62
+83,"Friday, Jul 10",NYY,@,TBD,W,8.0,4.0,9.0,63-20,1.0,up13.0,Irabu,Alvarez,Mendoza,3:18,N,40363.0,.01,8,,63
+84,"Saturday, Jul 11",NYY,@,TBD,W,2.0,0.0,9.0,64-20,1.0,up14.0,Cone,Arrojo,Rivera,2:37,N,44589.0,.01,9,,64
+85,"Sunday, Jul 12",NYY,@,TBD,W,9.0,2.0,9.0,65-20,1.0,up15.0,Stanton,Hernandez,None,3:26,D,43373.0,.00,10,,65
+86,"Monday, Jul 13",NYY,@,CLE,L,1.0,4.0,9.0,65-21,1.0,up14.0,Wright,Hernandez,Jackson,2:54,N,43177.0,.00,-1,,65
+87,"Tuesday, Jul 14",NYY,@,CLE,W,7.0,1.0,9.0,66-21,1.0,up15.0,Pettitte,Burba,None,2:49,N,43164.0,.00,1,,66
+88,"Wednesday, Jul 15",NYY,@,DET,W,11.0,0.0,9.0,67-21,1.0,up15.0,Irabu,Greisinger,None,2:49,N,19868.0,.00,2,,67
+89,"Thursday, Jul 16",NYY,@,DET,L,1.0,3.0,9.0,67-22,1.0,up14.0,Moehler,Cone,Jones,2:27,N,21336.0,.00,-1,,67
+90,"Friday, Jul 17",NYY,@,TOR,L,6.0,9.0,9.0,67-23,1.0,up14.0,Clemens,Holmes,Myers,3:27,N,39172.0,.00,-2,,67
+91,"Saturday, Jul 18",NYY,@,TOR,W,10.0,3.0,9.0,68-23,1.0,up14.0,Hernandez,Guzman,None,3:34,D,48123.0,.00,1,,68
+92,"Sunday, Jul 19",NYY,@,TOR,L,3.0,9.0,9.0,68-24,1.0,up14.0,Williams,Pettitte,None,3:06,D,42176.0,.00,-1,,68
+93,"Monday, Jul 20 (1)",NYY,Home,DET,L,3.0,4.0,17.0,68-25,1.0,up14.0,Sager,Holmes,None,5:50,D,,.00,-2,1998-04-26 (Rain; Site change),68
+94,"Monday, Jul 20 (2)",NYY,Home,DET,W,4.0,3.0,9.0,69-25,1.0,up14.0,Irabu,Florie,Rivera,2:45,N,36285.0,.00,1,,69
+95,"Tuesday, Jul 21",NYY,Home,DET,W,5.0,1.0,9.0,70-25,1.0,up14.5,Cone,Moehler,None,2:40,N,35980.0,.00,2,,70
+96,"Wednesday, Jul 22",NYY,Home,DET,W,13.0,2.0,9.0,71-25,1.0,up15.5,Hernandez,Powell,Holmes,2:52,D,49029.0,.00,3,,71
+97,"Friday, Jul 24",NYY,Home,CHW,W,5.0,4.0,9.0,72-25,1.0,up16.0,Pettitte,Ward,Rivera,2:44,N,44264.0,.00,4,,72
+98,"Saturday, Jul 25",NYY,Home,CHW,L,2.0,6.0,9.0,72-26,1.0,up15.0,Sirotka,Irabu,Simas,3:13,D,55638.0,.00,-1,,72
+99,"Sunday, Jul 26",NYY,Home,CHW,W,6.0,3.0,9.0,73-26,1.0,up15.0,Wells,Navarro,Rivera,2:51,D,51865.0,.00,1,,73
+100,"Tuesday, Jul 28",NYY,@,ANA,W,9.0,3.0,9.0,74-26,1.0,up15.0,Cone,Dickson,None,2:57,N,36241.0,.00,2,,74
+101,"Wednesday, Jul 29",NYY,@,ANA,L,5.0,10.0,9.0,74-27,1.0,up14.0,Sparks,Hernandez,None,3:08,N,38829.0,.00,-1,,74
+102,"Thursday, Jul 30",NYY,@,ANA,W,3.0,0.0,10.0,75-27,1.0,up15.0,Mendoza,DeLucia,Rivera,3:55,N,42915.0,.00,1,,75
+103,"Friday, Jul 31",NYY,@,SEA,W,5.0,3.0,9.0,76-27,1.0,up15.0,Irabu,Fassero,Rivera,2:39,N,43837.0,.00,2,,76
+104,"Saturday, Aug 1",NYY,@,SEA,W,5.0,2.0,9.0,77-27,1.0,up15.0,Wells,Moyer,None,2:46,D,53840.0,.00,3,,77
+105,"Sunday, Aug 2",NYY,@,SEA,L,3.0,6.0,9.0,77-28,1.0,up14.0,Wells,Cone,Timlin,2:49,N,47872.0,.00,-1,,77
+106,"Monday, Aug 3",NYY,@,OAK,W,14.0,1.0,9.0,78-28,1.0,up15.0,Hernandez,Oquist,None,2:38,N,18209.0,.00,1,,78
+107,"Tuesday, Aug 4 (1)",NYY,@,OAK,W,10.0,4.0,9.0,79-28,1.0,up15.5,Mendoza,Witasick,Stanton,3:01,D,,.00,2,1998-04-03 (Rain),79
+108,"Tuesday, Aug 4 (2)",NYY,@,OAK,W,10.0,5.0,9.0,80-28,1.0,up15.5,Lloyd,Taylor,None,3:09,N,23357.0,.00,3,,80
+109,"Wednesday, Aug 5",NYY,@,OAK,L,1.0,3.0,9.0,80-29,1.0,up15.0,Candiotti,Irabu,None,2:16,N,22458.0,.00,-1,,80
+110,"Friday, Aug 7 (1)",NYY,Home,KCR,W,8.0,2.0,9.0,81-29,1.0,up17.0,Cone,Rapp,None,3:00,D,14425.0,.00,1,1998-05-11 (Rain),81
+111,"Friday, Aug 7 (2)",NYY,Home,KCR,W,14.0,2.0,9.0,82-29,1.0,up17.0,Wells,Haney,None,2:49,N,37988.0,.00,2,,82
+112,"Saturday, Aug 8",NYY,Home,KCR,W,14.0,1.0,9.0,83-29,1.0,up17.0,Hernandez,Rusch,None,2:48,D,45975.0,.00,3,,83
+113,"Sunday, Aug 9",NYY,Home,KCR,W,5.0,4.0,9.0,84-29,1.0,up17.0,Mendoza,Service,Rivera,2:46,D,55911.0,.00,4,,84
+114,"Monday, Aug 10",NYY,Home,MIN,W,7.0,3.0,9.0,85-29,1.0,up17.5,Irabu,Rodriguez,None,2:42,N,29600.0,.00,5,,85
+115,"Tuesday, Aug 11",NYY,Home,MIN,W,7.0,0.0,9.0,86-29,1.0,up17.5,Wells,Milton,None,2:32,N,37413.0,.00,6,,86
+116,"Wednesday, Aug 12",NYY,Home,MIN,W,11.0,2.0,9.0,87-29,1.0,up18.5,Cone,Hawkins,None,3:04,D,47841.0,.00,7,,87
+117,"Thursday, Aug 13",NYY,Home,TEX,W,2.0,0.0,9.0,88-29,1.0,up18.5,Hernandez,Helling,Rivera,2:30,N,53835.0,.00,8,,88
+118,"Friday, Aug 14",NYY,Home,TEX,W,6.0,4.0,9.0,89-29,1.0,up18.5,Pettitte,Sele,Rivera,2:47,N,46547.0,.00,9,,89
+119,"Saturday, Aug 15",NYY,Home,TEX,L,5.0,16.0,9.0,89-30,1.0,up18.5,Stottlemyre,Irabu,None,3:48,D,53117.0,.00,-1,,89
+120,"Sunday, Aug 16",NYY,Home,TEX,W,6.0,5.0,9.0,90-30,1.0,up19.5,Rivera,Hernandez,None,3:18,D,50304.0,.00,1,,90
+121,"Monday, Aug 17",NYY,@,KCR,W,7.0,1.0,9.0,91-30,1.0,up20.0,Cone,Rosado,None,2:47,N,27895.0,.00,2,,91
+122,"Tuesday, Aug 18",NYY,@,KCR,W,3.0,2.0,13.0,92-30,1.0,up19.5,Borowski,Whisenant,None,3:58,N,26259.0,.00,3,,92
+123,"Wednesday, Aug 19",NYY,@,MIN,L,3.0,5.0,9.0,92-31,1.0,up18.5,Serafini,Pettitte,Aguilera,3:18,N,17923.0,.00,-1,,92
+124,"Thursday, Aug 20",NYY,@,MIN,L,4.0,9.0,9.0,92-32,1.0,up18.5,Rodriguez,Buddie,None,2:58,N,18548.0,.00,-2,,92
+125,"Friday, Aug 21",NYY,@,TEX,W,5.0,0.0,9.0,93-32,1.0,up18.5,Wells,Loaiza,None,2:42,N,45841.0,.00,1,,93
+126,"Saturday, Aug 22",NYY,@,TEX,W,12.0,9.0,9.0,94-32,1.0,up19.5,Bradley,Hernandez,Rivera,3:57,N,46483.0,.00,2,,94
+127,"Sunday, Aug 23",NYY,@,TEX,L,10.0,12.0,9.0,94-33,1.0,up18.5,Helling,Hernandez,Wetteland,3:40,N,37284.0,.00,-1,,94
+128,"Monday, Aug 24",NYY,Home,ANA,L,3.0,7.0,9.0,94-34,1.0,up18.0,McDowell,Pettitte,None,3:01,N,19297.0,.00,-2,1998-04-13 (Stadium structural problems),94
+129,"Tuesday, Aug 25",NYY,Home,ANA,L,6.0,7.0,9.0,94-35,1.0,up17.0,Watson,Stanton,Percival,4:12,N,30422.0,.00,-3,,94
+130,"Wednesday, Aug 26 (1)",NYY,Home,ANA,L,4.0,6.0,9.0,94-36,1.0,up16.5,Juden,Bradley,Percival,3:16,D,20077.0,.00,-4,1998-04-14 (Stadium structural problems),94
+131,"Wednesday, Aug 26 (2)",NYY,Home,ANA,W,7.0,6.0,9.0,95-36,1.0,up16.5,Rivera,Fetters,None,3:16,N,28837.0,.00,1,,95
+132,"Thursday, Aug 27",NYY,Home,ANA,W,6.0,5.0,11.0,96-36,1.0,up17.5,Tessmer,Fetters,None,4:26,N,29213.0,.00,2,,96
+133,"Friday, Aug 28",NYY,Home,SEA,W,10.0,3.0,9.0,97-36,1.0,up18.5,Hernandez,Spoljaric,None,2:59,N,49789.0,.00,3,,97
+134,"Saturday, Aug 29",NYY,Home,SEA,W,11.0,6.0,9.0,98-36,1.0,up18.5,Pettitte,Cloude,None,3:26,D,55146.0,.00,4,,98
+135,"Sunday, Aug 30",NYY,Home,SEA,L,3.0,13.0,9.0,98-37,1.0,up18.5,Swift,Irabu,None,3:15,D,55341.0,.00,-1,,98
+136,"Tuesday, Sep 1",NYY,Home,OAK,W,7.0,0.0,9.0,99-37,1.0,up19.0,Wells,Candiotti,None,2:24,N,29632.0,.00,1,,99
+137,"Wednesday, Sep 2",NYY,Home,OAK,L,0.0,2.0,9.0,99-38,1.0,up18.0,Heredia,Cone,Taylor,2:57,N,30332.0,.00,-1,,99
+138,"Friday, Sep 4",NYY,@,CHW,W,11.0,6.0,9.0,100-38,1.0,up19.5,Lloyd,Bradford,None,3:27,N,19876.0,.00,1,,100
+139,"Saturday, Sep 5",NYY,@,CHW,L,5.0,9.0,9.0,100-39,1.0,up19.5,Abbott,Pettitte,None,2:48,N,33092.0,.00,-1,,100
+140,"Sunday, Sep 6",NYY,@,CHW,L,5.0,6.0,9.0,100-40,1.0,up19.5,Baldwin,Irabu,Howry,2:54,D,24498.0,.00,-2,,100
+141,"Monday, Sep 7",NYY,@,BOS,L,3.0,4.0,9.0,100-41,1.0,up18.5,Swindell,Wells,Gordon,2:46,N,32106.0,.00,-3,,100
+142,"Tuesday, Sep 8",NYY,@,BOS,W,3.0,2.0,9.0,101-41,1.0,up19.5,Cone,Martinez,Rivera,3:19,N,33409.0,.00,1,,101
+143,"Wednesday, Sep 9",NYY,@,BOS,W,7.0,5.0,9.0,102-41,1.0,up20.5,Mendoza,Wakefield,Rivera,2:45,N,32942.0,.00,2,,102
+144,"Thursday, Sep 10",NYY,Home,TOR,W,8.0,5.0,9.0,103-41,1.0,up21.0,Pettitte,Hentgen,Holmes,3:09,N,25881.0,.00,3,,103
+145,"Friday, Sep 11",NYY,Home,TOR,L,4.0,5.0,9.0,103-42,1.0,up20.0,Almanzar,Irabu,Person,3:24,N,35856.0,.00,-1,,103
+146,"Saturday, Sep 12",NYY,Home,TOR,L,3.0,5.0,9.0,103-43,1.0,up20.0,Carpenter,Wells,Person,2:34,D,48752.0,.00,-2,,103
+147,"Sunday, Sep 13",NYY,Home,TOR,L,3.0,5.0,9.0,103-44,1.0,up20.0,Escobar,Cone,Person,3:31,D,47471.0,.00,-3,,103
+148,"Monday, Sep 14",NYY,Home,BOS,W,3.0,0.0,9.0,104-44,1.0,up21.0,Hernandez,Martinez,None,2:34,N,42735.0,.00,1,,104
+149,"Tuesday, Sep 15",NYY,Home,BOS,L,4.0,9.0,9.0,104-45,1.0,up20.0,Wakefield,Jerzembeck,None,2:56,N,43218.0,.00,-1,,104
+150,"Wednesday, Sep 16",NYY,@,TBD,L,0.0,7.0,9.0,104-46,1.0,up19.0,Saunders,Pettitte,None,3:08,N,38862.0,.00,-2,,104
+151,"Thursday, Sep 17",NYY,@,TBD,W,4.0,0.0,9.0,105-46,1.0,up19.0,Irabu,Santana,None,2:53,N,38820.0,.00,1,,105
+152,"Friday, Sep 18",NYY,@,BAL,W,15.0,5.0,9.0,106-46,1.0,up20.0,Wells,Guzman,None,3:52,N,48113.0,.00,2,,106
+153,"Saturday, Sep 19",NYY,@,BAL,L,3.0,5.0,9.0,106-47,1.0,up20.0,Ponson,Cone,Mills,3:04,D,48044.0,.00,-1,,106
+154,"Sunday, Sep 20",NYY,@,BAL,W,5.0,4.0,9.0,107-47,1.0,up21.0,Hernandez,Johns,Rivera,3:33,N,48013.0,.00,1,,107
+155,"Monday, Sep 21",NYY,Home,CLE,L,1.0,4.0,9.0,107-48,1.0,up20.5,Nagy,Pettitte,Shuey,2:48,N,21449.0,.00,-1,1998-06-12 (Rain),107
+156,"Tuesday, Sep 22 (1)",NYY,Home,CLE,W,10.0,4.0,9.0,108-48,1.0,up21.0,Mendoza,Burba,None,2:52,D,14840.0,.00,1,1998-06-13 (Rain),108
+157,"Tuesday, Sep 22 (2)",NYY,Home,CLE,W,5.0,1.0,9.0,109-48,1.0,up21.0,Irabu,Ogea,None,2:23,N,32315.0,.00,2,,109
+158,"Wednesday, Sep 23",NYY,Home,CLE,W,8.0,4.0,9.0,110-48,1.0,up21.0,Bradley,Jacome,None,2:38,N,32367.0,.00,3,,110
+159,"Thursday, Sep 24",NYY,Home,TBD,W,5.0,2.0,9.0,111-48,1.0,up21.0,Buddie,Alvarez,Nelson,3:10,N,24555.0,.00,4,,111
+160,"Friday, Sep 25",NYY,Home,TBD,W,6.0,1.0,9.0,112-48,1.0,up21.0,Hernandez,Eiland,None,2:49,N,32447.0,.00,5,,112
+161,"Saturday, Sep 26",NYY,Home,TBD,W,3.0,1.0,9.0,113-48,1.0,up22.0,Cone,Wade,None,2:42,D,41150.0,.00,6,,113
+162,"Sunday, Sep 27",NYY,Home,TBD,W,8.0,3.0,9.0,114-48,1.0,up22.0,Bruske,White,None,2:53,D,49608.0,.00,7,,114
