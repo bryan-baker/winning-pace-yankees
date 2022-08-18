@@ -10,24 +10,13 @@
 
 
 from pybaseball import schedule_and_record
-import numpy as np
 import pandas as pd
+import numpy as np
 import matplotlib.pyplot as plt
-from pathlib import Path  
-import re
+import plotly.graph_objects as go
+import plotly.offline as pyo
+
 import time
-
-from selenium import webdriver
-from selenium.webdriver.common.by import By
-from selenium.webdriver.support.ui import WebDriverWait
-from selenium.webdriver.support import expected_conditions as EC
-from selenium.webdriver.support.ui import Select
-
-from webdriver_manager.chrome import ChromeDriverManager
-
-
-# In[32]:
-
 
 from selenium import webdriver
 from selenium.webdriver.common.by import By
@@ -54,7 +43,6 @@ options = [
 for option in options:
     chrome_options.add_argument(option)
 
-
 # In[2]:
 
 
@@ -73,7 +61,7 @@ mariners
 # In[35]:
 
 
-driver = webdriver.Chrome(ChromeDriverManager().install())
+driver = webdriver.Chrome(service=chrome_service, options=chrome_options)
 driver.get('https://www.baseball-reference.com/teams/NYY/2022-schedule-scores.shtml')
 time.sleep(1)
 driver.refresh()
