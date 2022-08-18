@@ -26,7 +26,7 @@ jobs:
       - name: Remove Chrome
         run: sudo apt purge google-chrome-stable
       - name: Install necessary Python packages
-        run: pip install pandas beautifulsoup4 requests plotly matplotlib selenium webdriver-manager lxml kaleido
+        run: pip install pandas beautifulsoup4 requests plotly matplotlib selenium webdriver-manager lxml kaleido pybaseball
       # MAKE SURE YOUR SCRAPER FILENAME MATCHES THE FILENAME HERE!!
       - name: Run the scraping script
         run: python scraper.py
