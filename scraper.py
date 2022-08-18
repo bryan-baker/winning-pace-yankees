@@ -9,12 +9,12 @@
 # In[1]:
 
 
-from pybaseball import schedule_and_record
-import numpy as np
 import pandas as pd
+import numpy as np
 import matplotlib.pyplot as plt
-from pathlib import Path  
-import re
+import plotly.graph_objects as go
+import plotly.offline as pyo
+
 import time
 
 from selenium import webdriver
@@ -22,8 +22,25 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.support.ui import Select
-
 from webdriver_manager.chrome import ChromeDriverManager
+from webdriver_manager.core.utils import ChromeType
+from selenium.webdriver.chrome.options import Options
+from selenium.webdriver.chrome.service import Service
+
+chrome_service = Service(ChromeDriverManager(chrome_type=ChromeType.CHROMIUM).install())
+
+chrome_options = Options()
+options = [
+    "--headless",
+    "--disable-gpu",
+    "--window-size=1920,1200",
+    "--ignore-certificate-errors",
+    "--disable-extensions",
+    "--no-sandbox",
+    "--disable-dev-shm-usage"
+]
+for option in options:
+    chrome_options.add_argument(option)
 
 
 # In[2]:
