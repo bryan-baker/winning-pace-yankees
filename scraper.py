@@ -8,7 +8,7 @@
 
 # In[1]:
 
-
+from pybaseball import schedule_and_record
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
