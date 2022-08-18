@@ -121,7 +121,7 @@ plt.plot(yankees4['win-count'], 'r', label=" 2022")
 plt.legend(loc=4)
 plt.xlabel('Games')
 plt.ylabel('Win Count')
-plt.title('Winning Pace');
+plt.title('Winning Pace (hey)');
 plt.savefig('charts/win-count.svg')
 plt.close();
 
