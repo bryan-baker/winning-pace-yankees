@@ -10,11 +10,12 @@
 
 
 from pybaseball import schedule_and_record
-import numpy as np
 import pandas as pd
+import numpy as np
 import matplotlib.pyplot as plt
-from pathlib import Path  
-import re
+import plotly.graph_objects as go
+import plotly.offline as pyo
+
 import time
 
 from selenium import webdriver
@@ -22,9 +23,25 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.support.ui import Select
-
 from webdriver_manager.chrome import ChromeDriverManager
+from webdriver_manager.core.utils import ChromeType
+from selenium.webdriver.chrome.options import Options
+from selenium.webdriver.chrome.service import Service
 
+chrome_service = Service(ChromeDriverManager(chrome_type=ChromeType.CHROMIUM).install())
+
+chrome_options = Options()
+options = [
+    "--headless",
+    "--disable-gpu",
+    "--window-size=1920,1200",
+    "--ignore-certificate-errors",
+    "--disable-extensions",
+    "--no-sandbox",
+    "--disable-dev-shm-usage"
+]
+for option in options:
+    chrome_options.add_argument(option)
 
 # In[2]:
 
@@ -44,7 +61,7 @@ mariners
 # In[4]:
 
 
-driver = webdriver.Chrome(ChromeDriverManager().install())
+driver = webdriver.Chrome(service=chrome_service, options=chrome_options)
 driver.get('https://www.baseball-reference.com/teams/NYY/2022-schedule-scores.shtml')
 time.sleep(1)
 yankees4 = pd.read_html(driver.find_element(By.XPATH, '/html/body/div[2]/div[5]/div[5]/div[2]/table').get_attribute('outerHTML'))
@@ -163,7 +180,6 @@ yankees4
 
 
 # Scrape for Judge
-driver = webdriver.Chrome(ChromeDriverManager().install())
 driver.get('https://www.baseball-reference.com/players/gl.fcgi?id=judgeaa01&t=b&year=2022')
 time.sleep(1)
 judge = pd.read_html(driver.find_element(By.XPATH, '/html/body/div[2]/div[5]/div[4]/div[3]/table').get_attribute('outerHTML'))
@@ -202,7 +218,6 @@ judge
 
 
 # Scrape for Maris
-driver = webdriver.Chrome(ChromeDriverManager().install())
 driver.get('https://www.baseball-reference.com/players/gl.fcgi?id=marisro01&t=b&year=1961')
 time.sleep(1)
 maris = pd.read_html(driver.find_element(By.ID, 'batting_gamelogs').get_attribute('outerHTML'))
@@ -227,7 +242,6 @@ maris
 
 
 # Scrape for Ruth
-driver = webdriver.Chrome(ChromeDriverManager().install())
 driver.get('https://www.baseball-reference.com/players/gl.fcgi?id=ruthba01&t=b&year=1927')
 time.sleep(1)
 ruth = pd.read_html(driver.find_element(By.ID, 'batting_gamelogs').get_attribute('outerHTML'))
@@ -251,7 +265,6 @@ ruth
 
 
 # Scrape for Bonds
-driver = webdriver.Chrome(ChromeDriverManager().install())
 driver.get('https://www.baseball-reference.com/players/gl.fcgi?id=bondsba01&t=b&year=2001')
 time.sleep(1)
 bonds = pd.read_html(driver.find_element(By.ID, 'batting_gamelogs').get_attribute('outerHTML'))
