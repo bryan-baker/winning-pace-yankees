@@ -66,7 +66,7 @@ driver.get('https://www.baseball-reference.com/teams/NYY/2022-schedule-scores.sh
 time.sleep(3)
 driver.refresh()
 time.sleep(3)
-yankees4 = pd.read_html(driver.find_element(By.XPATH, '/html/body/div[2]/div[5]/div[5]/div[2]/table').get_attribute('outerHTML'))
+yankees4 = pd.read_html(driver.find_element(By.ID, 'team_schedule').get_attribute('outerHTML'))
 yankees4 = yankees4[0]
 yankees4
 
@@ -186,7 +186,7 @@ driver.get('https://www.baseball-reference.com/players/gl.fcgi?id=judgeaa01&t=b&
 time.sleep(3)
 driver.refresh()
 time.sleep(3)
-judge = pd.read_html(driver.find_element(By.XPATH, '/html/body/div[2]/div[5]/div[4]/div[3]/table').get_attribute('outerHTML'))
+judge = pd.read_html(driver.find_element(By.ID, 'batting_gamelogs').get_attribute('outerHTML'))
 judge = judge[0]
 judge
 
