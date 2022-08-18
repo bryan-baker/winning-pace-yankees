@@ -8,13 +8,13 @@
 
 # In[1]:
 
-from pybaseball import schedule_and_record
-import pandas as pd
-import numpy as np
-import matplotlib.pyplot as plt
-import plotly.graph_objects as go
-import plotly.offline as pyo
 
+from pybaseball import schedule_and_record
+import numpy as np
+import pandas as pd
+import matplotlib.pyplot as plt
+from pathlib import Path  
+import re
 import time
 
 from selenium import webdriver
@@ -22,25 +22,8 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.support.ui import Select
+
 from webdriver_manager.chrome import ChromeDriverManager
-from webdriver_manager.core.utils import ChromeType
-from selenium.webdriver.chrome.options import Options
-from selenium.webdriver.chrome.service import Service
-
-chrome_service = Service(ChromeDriverManager(chrome_type=ChromeType.CHROMIUM).install())
-
-chrome_options = Options()
-options = [
-    "--headless",
-    "--disable-gpu",
-    "--window-size=1920,1200",
-    "--ignore-certificate-errors",
-    "--disable-extensions",
-    "--no-sandbox",
-    "--disable-dev-shm-usage"
-]
-for option in options:
-    chrome_options.add_argument(option)
 
 
 # In[2]:
@@ -109,7 +92,7 @@ yankees4['win-count'] = np.where(yankees4['W/L']=='W', 1, 0).cumsum()
 mariners['win-count'] = np.where(mariners['W/L']=='W', 1, 0).cumsum()
 
 
-# In[26]:
+# In[9]:
 
 
 plt.plot(yankees1['win-count'], 'g', label=" 1927")
@@ -139,7 +122,7 @@ yankees3['scorediff'] = (yankees3['R'] - yankees3['RA']).cumsum()
 yankees4['scorediff'] = (yankees4['R'] - yankees4['RA']).cumsum()
 
 
-# In[27]:
+# In[12]:
 
 
 plt.plot(yankees1['scorediff'], 'g', label=" 1927")
@@ -179,25 +162,155 @@ yankees4
 # In[16]:
 
 
-yankees4.dtypes
+# Scrape for Judge
+driver = webdriver.Chrome(ChromeDriverManager().install())
+driver.get('https://www.baseball-reference.com/players/gl.fcgi?id=judgeaa01&t=b&year=2022')
+time.sleep(1)
+judge = pd.read_html(driver.find_element(By.XPATH, '/html/body/div[2]/div[5]/div[4]/div[3]/table').get_attribute('outerHTML'))
+judge = judge[0]
+judge
 
 
 # In[17]:
 
 
-yankees4.R.mean()
+# Drop unnecessary columns
+judge = judge.drop(columns=['Rk', 'Gcar', 'Unnamed: 5', 'RE24', 'DFS(DK)', 'DFS(FD)' ])
 
 
 # In[18]:
 
 
-yankees3.R.mean()
+# Check data
+pd.set_option('display.max_columns', None)
+pd.set_option('display.max_rows', None)
+judge
 
 
 # In[19]:
 
 
-mariners
+# More cleaning + adding HR count column
+judge = judge[judge['Rslt'].str.contains('Rslt')==False]
+judge = judge[judge['Gtm'].notna()]
+judge.HR = judge.HR.astype(int)
+judge['HR_count'] = judge['HR'].cumsum()
+judge
+
+
+# In[20]:
+
+
+# Scrape for Maris
+driver = webdriver.Chrome(ChromeDriverManager().install())
+driver.get('https://www.baseball-reference.com/players/gl.fcgi?id=marisro01&t=b&year=1961')
+time.sleep(1)
+maris = pd.read_html(driver.find_element(By.ID, 'batting_gamelogs').get_attribute('outerHTML'))
+maris = maris[0]
+maris
+
+
+# In[21]:
+
+
+# Clean and add HR Count 
+maris = maris.drop(columns=['Rk', 'Gcar', 'Unnamed: 5', 'RE24'])
+maris = maris[maris['Rslt'].str.contains('Rslt')==False]
+maris.HR = maris.HR.astype(int)
+maris.WPA = maris.WPA.astype(float)
+maris['HR_count'] = maris['HR'].cumsum()
+maris = maris[maris['Gtm'].notna()]
+maris
+
+
+# In[22]:
+
+
+# Scrape for Ruth
+driver = webdriver.Chrome(ChromeDriverManager().install())
+driver.get('https://www.baseball-reference.com/players/gl.fcgi?id=ruthba01&t=b&year=1927')
+time.sleep(1)
+ruth = pd.read_html(driver.find_element(By.ID, 'batting_gamelogs').get_attribute('outerHTML'))
+ruth = ruth[0]
+ruth
+
+
+# In[23]:
+
+
+# Clean and add HR count column
+ruth = ruth.drop(columns=['Rk', 'Gcar', 'Unnamed: 5', 'RE24'])
+ruth = ruth[ruth['Rslt'].str.contains('Rslt')==False]
+ruth.HR = ruth.HR.astype(int)
+ruth['HR_count'] = ruth['HR'].cumsum()
+ruth = ruth[ruth['Gtm'].notna()]
+ruth
+
+
+# In[24]:
+
+
+# Scrape for Bonds
+driver = webdriver.Chrome(ChromeDriverManager().install())
+driver.get('https://www.baseball-reference.com/players/gl.fcgi?id=bondsba01&t=b&year=2001')
+time.sleep(1)
+bonds = pd.read_html(driver.find_element(By.ID, 'batting_gamelogs').get_attribute('outerHTML'))
+bonds = bonds[0]
+bonds
+
+
+# In[25]:
+
+
+# Clean and add HR count column
+bonds = bonds.drop(columns=['Rk', 'Gcar', 'Unnamed: 5', 'RE24'])
+bonds = bonds[bonds['Rslt'].str.contains('Rslt')==False]
+bonds = bonds[bonds['Gtm'].notna()]
+bonds.HR = bonds.HR.astype(int)
+bonds['HR_count'] = bonds['HR'].cumsum()
+bonds
+
+
+# In[26]:
+
+
+# Add WPA Count column
+bonds['WPA_count'] = bonds['WPA'].cumsum()
+maris['WPA_count'] = maris['WPA'].cumsum()
+judge['WPA_count'] = judge['WPA'].cumsum()
+
+
+# In[27]:
+
+
+# Change aLI to float
+bonds.aLI = bonds.aLI.astype(float)
+maris.aLI = maris.aLI.astype(float)
+judge.aLI = judge.aLI.astype(float)
+
+
+# In[28]:
+
+
+# Save data to CSV files
+bonds.to_csv('data/bonds.csv')
+maris.to_csv('data/maris.csv')
+judge.to_csv('data/judge.csv')
+ruth.to_csv('data/ruth.csv')
+
+
+# In[29]:
+
+
+plt.plot(ruth['HR_count'], 'g', label="Babe Ruth (1927)")
+plt.plot(maris['HR_count'], 'b', label="Roger Maris (1961)")
+plt.plot(bonds['HR_count'], 'tab:orange', label="Barry Bonds (2001)")
+plt.plot(judge['HR_count'], 'r', label="Aaron Judge (2022)")
+plt.legend(loc=4)
+plt.xlabel('Games')
+plt.ylabel('Home Runs')
+plt.title('Home Run Pace')
+plt.savefig('charts/hr-pace.svg')
 
 
 # In[ ]:
