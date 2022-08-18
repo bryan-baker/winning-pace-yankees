@@ -10,13 +10,24 @@
 
 
 from pybaseball import schedule_and_record
-import pandas as pd
 import numpy as np
+import pandas as pd
 import matplotlib.pyplot as plt
-import plotly.graph_objects as go
-import plotly.offline as pyo
-
+from pathlib import Path  
+import re
 import time
+
+from selenium import webdriver
+from selenium.webdriver.common.by import By
+from selenium.webdriver.support.ui import WebDriverWait
+from selenium.webdriver.support import expected_conditions as EC
+from selenium.webdriver.support.ui import Select
+
+from webdriver_manager.chrome import ChromeDriverManager
+
+
+# In[32]:
+
 
 from selenium import webdriver
 from selenium.webdriver.common.by import By
@@ -43,6 +54,7 @@ options = [
 for option in options:
     chrome_options.add_argument(option)
 
+
 # In[2]:
 
 
@@ -58,14 +70,14 @@ mariners = schedule_and_record(2001, 'SEA')
 mariners
 
 
-# In[4]:
+# In[35]:
 
 
-driver = webdriver.Chrome(service=chrome_service, options=chrome_options)
+driver = webdriver.Chrome(ChromeDriverManager().install())
 driver.get('https://www.baseball-reference.com/teams/NYY/2022-schedule-scores.shtml')
-time.sleep(3)
+time.sleep(1)
 driver.refresh()
-time.sleep(3)
+time.sleep(1)
 yankees4 = pd.read_html(driver.find_element(By.ID, 'team_schedule').get_attribute('outerHTML'))
 yankees4 = yankees4[0]
 yankees4
@@ -178,10 +190,11 @@ pd.set_option('display.max_rows', None)
 yankees4
 
 
-# In[16]:
+# In[36]:
 
 
 # Scrape for Judge
+driver = webdriver.Chrome(ChromeDriverManager().install())
 driver.get('https://www.baseball-reference.com/players/gl.fcgi?id=judgeaa01&t=b&year=2022')
 time.sleep(3)
 driver.refresh()
@@ -222,6 +235,7 @@ judge
 
 
 # Scrape for Maris
+driver = webdriver.Chrome(ChromeDriverManager().install())
 driver.get('https://www.baseball-reference.com/players/gl.fcgi?id=marisro01&t=b&year=1961')
 time.sleep(3)
 driver.refresh()
@@ -248,6 +262,7 @@ maris
 
 
 # Scrape for Ruth
+driver = webdriver.Chrome(ChromeDriverManager().install())
 driver.get('https://www.baseball-reference.com/players/gl.fcgi?id=ruthba01&t=b&year=1927')
 time.sleep(3)
 driver.refresh()
@@ -273,6 +288,7 @@ ruth
 
 
 # Scrape for Bonds
+driver = webdriver.Chrome(ChromeDriverManager().install())
 driver.get('https://www.baseball-reference.com/players/gl.fcgi?id=bondsba01&t=b&year=2001')
 time.sleep(3)
 driver.refresh()
@@ -336,7 +352,8 @@ plt.title('Home Run Pace')
 plt.savefig('charts/hr-pace.svg')
 
 
-# In[ ]:
+# In[33]:
+
 
 
 
