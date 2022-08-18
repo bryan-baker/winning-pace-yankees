@@ -182,7 +182,6 @@ yankees4
 
 
 # Scrape for Judge
-driver = webdriver.Chrome(ChromeDriverManager().install())
 driver.get('https://www.baseball-reference.com/players/gl.fcgi?id=judgeaa01&t=b&year=2022')
 time.sleep(3)
 driver.refresh()
@@ -223,7 +222,6 @@ judge
 
 
 # Scrape for Maris
-driver = webdriver.Chrome(ChromeDriverManager().install())
 driver.get('https://www.baseball-reference.com/players/gl.fcgi?id=marisro01&t=b&year=1961')
 time.sleep(3)
 driver.refresh()
@@ -250,7 +248,6 @@ maris
 
 
 # Scrape for Ruth
-driver = webdriver.Chrome(ChromeDriverManager().install())
 driver.get('https://www.baseball-reference.com/players/gl.fcgi?id=ruthba01&t=b&year=1927')
 time.sleep(3)
 driver.refresh()
@@ -276,7 +273,6 @@ ruth
 
 
 # Scrape for Bonds
-driver = webdriver.Chrome(ChromeDriverManager().install())
 driver.get('https://www.baseball-reference.com/players/gl.fcgi?id=bondsba01&t=b&year=2001')
 time.sleep(3)
 driver.refresh()
