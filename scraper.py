@@ -63,7 +63,7 @@ mariners
 
 driver = webdriver.Chrome(service=chrome_service, options=chrome_options)
 driver.get('https://www.baseball-reference.com/teams/NYY/2022-schedule-scores.shtml')
-time.sleep(1)
+time.sleep(10)
 yankees4 = pd.read_html(driver.find_element(By.XPATH, '/html/body/div[2]/div[5]/div[5]/div[2]/table').get_attribute('outerHTML'))
 yankees4 = yankees4[0]
 yankees4
@@ -181,7 +181,7 @@ yankees4
 
 # Scrape for Judge
 driver.get('https://www.baseball-reference.com/players/gl.fcgi?id=judgeaa01&t=b&year=2022')
-time.sleep(1)
+time.sleep(10)
 judge = pd.read_html(driver.find_element(By.XPATH, '/html/body/div[2]/div[5]/div[4]/div[3]/table').get_attribute('outerHTML'))
 judge = judge[0]
 judge
@@ -219,7 +219,7 @@ judge
 
 # Scrape for Maris
 driver.get('https://www.baseball-reference.com/players/gl.fcgi?id=marisro01&t=b&year=1961')
-time.sleep(1)
+time.sleep(10)
 maris = pd.read_html(driver.find_element(By.ID, 'batting_gamelogs').get_attribute('outerHTML'))
 maris = maris[0]
 maris
@@ -243,7 +243,7 @@ maris
 
 # Scrape for Ruth
 driver.get('https://www.baseball-reference.com/players/gl.fcgi?id=ruthba01&t=b&year=1927')
-time.sleep(1)
+time.sleep(10)
 ruth = pd.read_html(driver.find_element(By.ID, 'batting_gamelogs').get_attribute('outerHTML'))
 ruth = ruth[0]
 ruth
@@ -266,7 +266,7 @@ ruth
 
 # Scrape for Bonds
 driver.get('https://www.baseball-reference.com/players/gl.fcgi?id=bondsba01&t=b&year=2001')
-time.sleep(1)
+time.sleep(10)
 bonds = pd.read_html(driver.find_element(By.ID, 'batting_gamelogs').get_attribute('outerHTML'))
 bonds = bonds[0]
 bonds
