@@ -123,6 +123,7 @@ plt.xlabel('Games')
 plt.ylabel('Win Count')
 plt.title('Winning Pace');
 plt.savefig('charts/win-count.svg')
+plt.close();
 
 
 # In[10]:
@@ -153,6 +154,7 @@ plt.xlabel('Games')
 plt.ylabel('Runs Scored - Runs Against')
 plt.title('Cumulative Run Differential');
 plt.savefig('charts/run-differential.svg')
+plt.close();
 
 
 # In[13]:
