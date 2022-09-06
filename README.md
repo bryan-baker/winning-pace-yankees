@@ -139,10 +139,10 @@ judge['HR_count'] = judge['HR'].cumsum()
 judge
 ```
 ## Repeat process for Maris, Bonds, and Ruth
-Links to game logs for scraping
--https://www.baseball-reference.com/players/gl.fcgi?id=bondsba01&t=b&year=2001
--https://www.baseball-reference.com/players/gl.fcgi?id=marisro01&t=b&year=1961
--https://www.baseball-reference.com/players/gl.fcgi?id=ruthba01&t=b&year=1927
+#### Links to game logs for scraping
+- https://www.baseball-reference.com/players/gl.fcgi?id=bondsba01&t=b&year=2001
+- https://www.baseball-reference.com/players/gl.fcgi?id=marisro01&t=b&year=1961
+- https://www.baseball-reference.com/players/gl.fcgi?id=ruthba01&t=b&year=1927
 
 ## Plot Home Run Pace
 ```
